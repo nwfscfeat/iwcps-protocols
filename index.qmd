@@ -1,3 +1,0 @@
-# IWCPS Protocols - WORKING
-
-* [NWFSC Data Management](./nwfsc-datamanagement.md)
