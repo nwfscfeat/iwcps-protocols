@@ -1,3 +1,7 @@
-# IWCPS Protocols - WORKING
+---
+layout: default
+title: IWCPS details and protocols
+---
 
-* [NWFSC Data Management](./nwfsc-datamanagement.md)
+
+Welcome to the IWCPS!

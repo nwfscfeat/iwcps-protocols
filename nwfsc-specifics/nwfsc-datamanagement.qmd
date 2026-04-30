@@ -8,19 +8,17 @@ This will have introduction information about the page and the data management s
 ### Getting the CLAMS database ready
 
 ## During the survey
-### Completing an operation
+### Steps
+
 
 ### Initial QAQC of raw data
 
 ### Data flow diagram
 
 ## After the survey
-### Additions to the data
-* Ages
-* Diets
-
-### Archiving the data in staging
-
-### Moving data to production
-
-### Clearing out staging
+### Steps
+* Additions to the data (ages, diets, etc)
+* Final QAQC
+* Archive staging to sqlite file and store
+* Copy staging to production
+* Clear out staging
