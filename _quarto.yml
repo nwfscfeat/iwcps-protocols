@@ -8,10 +8,11 @@ website:
       contents:
         - text: "Welcome"
           href: index.qmd
-        - section: "Data Management"
+        - section: "NWFSC Specifics"
           contents:
             - nwfsc-datamanagement.qmd
-  nav-footer: "© 2026 IWCPS Team"
+  nav-footer:
+    left: "© 2026 IWCPS Team"
 
 format:
   html:
