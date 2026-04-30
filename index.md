@@ -1,3 +1,8 @@
+---
+layout: default
+title: IWCPS Protocols
+nav_order: 1
+---
 # Survey Protocols - WORKING
 
-* [After Survey Data Management - NWFSC](./nwfsc-datamanagement.md)
+* [NWFSC Data Management](./nwfsc-datamanagement.md)
