@@ -6,11 +6,16 @@ website:
   sidebar:
       style: "docked"
       contents:
+        - text: "Welcome"
+          href: index.qmd
         - section: "Data Management"
           contents:
             - nwfsc-datamanagement.qmd
+  nav-footer: "© 2026 IWCPS Team"
 
 format:
   html:
     theme: cosmo
     toc: true
+    toc-location: left
+    number-section: false
