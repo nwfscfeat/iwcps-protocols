@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "nwfsc-datamanagement.html",
-    "href": "nwfsc-datamanagement.html",
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html",
     "title": "Data Management",
     "section": "",
     "text": "This will have introduction information about the page and the data management steps ## Before the survey ### Getting the CLAMS database ready",
@@ -11,8 +11,8 @@
     ]
   },
   {
-    "objectID": "nwfsc-datamanagement.html#during-the-survey",
-    "href": "nwfsc-datamanagement.html#during-the-survey",
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
     "title": "Data Management",
     "section": "During the survey",
     "text": "During the survey\n\nCompleting an operation\n\n\nInitial QAQC of raw data\n\n\nData flow diagram",
@@ -22,8 +22,8 @@
     ]
   },
   {
-    "objectID": "nwfsc-datamanagement.html#after-the-survey",
-    "href": "nwfsc-datamanagement.html#after-the-survey",
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
     "title": "Data Management",
     "section": "After the survey",
     "text": "After the survey\n\nAdditions to the data\n\nAges\nDiets\n\n\n\nArchiving the data in staging\n\n\nMoving data to production\n\n\nClearing out staging",
@@ -40,6 +40,26 @@
     "text": "IWCPS Protocols - WORKING\n\nNWFSC Data Management",
     "crumbs": [
       "Welcome"
+    ]
+  },
+  {
+    "objectID": "swfsc-specifics/index.html",
+    "href": "swfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
+    "section": "",
+    "text": "Welcome to the SWFSC specific IWCPS protocols section",
+    "crumbs": [
+      "SWFSC Specifics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/index.html",
+    "href": "nwfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
+    "section": "",
+    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
+    "crumbs": [
+      "NWFSC Specifics"
     ]
   }
 ]
