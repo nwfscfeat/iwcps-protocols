@@ -1,20 +1,18 @@
 ---
 layout: default
-title: NWFSC Data Management
-nav_order: 2
-has_children: true
+title: Data Management
 ---
 
-# NWFSC - Data Management
-
+This will have introduction information about the page and the data management steps
 ## Before the survey
+### Getting the CLAMS database ready
 
 ## During the survey
 ### Completing an operation
 
 ### Initial QAQC of raw data
 
-### 
+### Data flow diagram
 
 ## After the survey
 ### Additions to the data

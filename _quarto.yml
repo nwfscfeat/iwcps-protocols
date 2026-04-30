@@ -18,5 +18,5 @@ format:
   html:
     theme: cosmo
     toc: true
-    toc-location: left
+    toc-location: right
     number-section: false
