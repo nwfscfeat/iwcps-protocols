@@ -15,7 +15,7 @@
     "href": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
     "title": "Data Management",
     "section": "During the survey",
-    "text": "During the survey\n\nCompleting an operation\n\n\nInitial QAQC of raw data\n\n\nData flow diagram",
+    "text": "During the survey\n\nSteps\n\n\nInitial QAQC of raw data\n\n\nData flow diagram",
     "crumbs": [
       "NWFSC Specifics",
       "Data Management"
@@ -26,7 +26,7 @@
     "href": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
     "title": "Data Management",
     "section": "After the survey",
-    "text": "After the survey\n\nAdditions to the data\n\nAges\nDiets\n\n\n\nArchiving the data in staging\n\n\nMoving data to production\n\n\nClearing out staging",
+    "text": "After the survey\n\nSteps\n\nAdditions to the data (ages, diets, etc)\nFinal QAQC\nArchive staging to sqlite file and store\nCopy staging to production\nClear out staging",
     "crumbs": [
       "NWFSC Specifics",
       "Data Management"
@@ -35,9 +35,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "IWCPS Protocols - WORKING",
+    "title": "IWCPS details and protocols",
     "section": "",
-    "text": "IWCPS Protocols - WORKING\n\nNWFSC Data Management",
+    "text": "Welcome to the IWCPS!",
     "crumbs": [
       "Welcome"
     ]
