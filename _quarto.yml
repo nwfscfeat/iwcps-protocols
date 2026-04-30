@@ -9,8 +9,12 @@ website:
         - text: "Welcome"
           href: index.qmd
         - section: "NWFSC Specifics"
+          href: nwfsc-specifics/index.qmd
           contents:
-            - nwfsc-datamanagement.qmd
+            - nwfsc-specifics/nwfsc-datamanagement.qmd
+        - section: "SWFSC Specifics"
+          href: swfsc-specifics/index.qmd
+          #contents:
   page-footer:
     left: "© 2026 IWCPS Team"
 
