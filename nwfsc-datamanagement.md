@@ -1,3 +1,9 @@
+---
+layout: default
+title: NWFSC Data Management
+nav_order: 1
+---
+
 # NWFSC - Data Management
 
 ## Before the survey
