@@ -2,6 +2,7 @@
 layout: default
 title: NWFSC Data Management
 nav_order: 2
+has_children: true
 ---
 
 # NWFSC - Data Management
@@ -9,6 +10,11 @@ nav_order: 2
 ## Before the survey
 
 ## During the survey
+### Completing an operation
+
+### Initial QAQC of raw data
+
+### 
 
 ## After the survey
 ### Additions to the data
