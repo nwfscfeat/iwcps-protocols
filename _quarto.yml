@@ -11,7 +11,7 @@ website:
         - section: "NWFSC Specifics"
           contents:
             - nwfsc-datamanagement.qmd
-  nav-footer:
+  page-footer:
     left: "© 2026 IWCPS Team"
 
 format:
