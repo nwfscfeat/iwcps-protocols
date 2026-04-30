@@ -2,23 +2,34 @@
   {
     "objectID": "nwfsc-datamanagement.html",
     "href": "nwfsc-datamanagement.html",
-    "title": "NWFSC Data Management",
+    "title": "Data Management",
     "section": "",
-    "text": "Ages\nDiets",
+    "text": "This will have introduction information about the page and the data management steps ## Before the survey ### Getting the CLAMS database ready",
     "crumbs": [
       "NWFSC Specifics",
-      "NWFSC Data Management"
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-datamanagement.html#during-the-survey",
+    "href": "nwfsc-datamanagement.html#during-the-survey",
+    "title": "Data Management",
+    "section": "During the survey",
+    "text": "During the survey\n\nCompleting an operation\n\n\nInitial QAQC of raw data\n\n\nData flow diagram",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
     ]
   },
   {
     "objectID": "nwfsc-datamanagement.html#after-the-survey",
     "href": "nwfsc-datamanagement.html#after-the-survey",
-    "title": "NWFSC Data Management",
-    "section": "",
-    "text": "Ages\nDiets",
+    "title": "Data Management",
+    "section": "After the survey",
+    "text": "After the survey\n\nAdditions to the data\n\nAges\nDiets\n\n\n\nArchiving the data in staging\n\n\nMoving data to production\n\n\nClearing out staging",
     "crumbs": [
       "NWFSC Specifics",
-      "NWFSC Data Management"
+      "Data Management"
     ]
   },
   {
