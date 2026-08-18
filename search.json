@@ -1,10 +1,74 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IWCPS details and protocols",
+    "section": "",
+    "text": "Welcome to the IWCPS!",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "backdeck/clamssetup.html",
+    "href": "backdeck/clamssetup.html",
+    "title": "CLAMS setup",
+    "section": "",
+    "text": "Setting up the database computer * download and install postgres (latest version as of 5/8/26 - 18.3) * NWFSC superuser password - pinghake * Leave port at 5432 * install database instance * Use DBeaver * Choose new Postgres connection * if this is the first time, you’ll be prompted to download the driver files * Be sure to check Show all databases * use common NWFSC password for clams2nwfsc database * New connection settings * if this is the first time you’ve used DBeaver, use the default postgres database first and then follow these instructions * Right click databases under postgres connection and select Create new database * name the database clams2nwfsc * Right click schemas under the clams2nwfsc database and create new schema * name the schema clams2nwfsc * Tools -&gt; restore * Connect to the same network that holds the CLAMShells * Set the IP address to a static address * Update the",
+    "crumbs": [
+      "Back deck basics",
+      "CLAMS setup"
+    ]
+  },
+  {
+    "objectID": "backdeck/settingup.html",
+    "href": "backdeck/settingup.html",
+    "title": "Setting up back deck computers",
+    "section": "",
+    "text": "The back deck blah blah blah\nStations: * Computer box * Monitor * Cables * Length board * Scale * Scanner * Printer",
+    "crumbs": [
+      "Back deck basics",
+      "Setting up back deck computers"
+    ]
+  },
+  {
+    "objectID": "backdeck/index.html",
+    "href": "backdeck/index.html",
+    "title": "Back deck basics",
+    "section": "",
+    "text": "This section will go over: * Preparing CLAMS * Setting up the backdeck computers * Stuff and things",
+    "crumbs": [
+      "Back deck basics"
+    ]
+  },
+  {
     "objectID": "nwfsc-specifics/nwfsc-datamanagement.html",
     "href": "nwfsc-specifics/nwfsc-datamanagement.html",
     "title": "Data Management",
     "section": "",
-    "text": "This will have introduction information about the page and the data management steps ## Before the survey ### Getting the CLAMS database ready",
+    "text": "This will have introduction information about the page and the data management steps",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
+    "title": "Data Management",
+    "section": "Data flow diagram",
+    "text": "Data flow diagram",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
+    "title": "Data Management",
+    "section": "Before the survey",
+    "text": "Before the survey\n\nSteps\nGetting the CLAMS database ready\nDeploying CLAMS database",
     "crumbs": [
       "NWFSC Specifics",
       "Data Management"
@@ -15,7 +79,7 @@
     "href": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
     "title": "Data Management",
     "section": "During the survey",
-    "text": "During the survey\n\nSteps\n\n\nInitial QAQC of raw data\n\n\nData flow diagram",
+    "text": "During the survey\n\nSteps\nData Collection\nBacking up and creating reports\nInitial QAQC of raw data\nUsing Docker for QAQC Using Docker is kind of having an apartment in an apartment building. The Docker image/template is built and users are able to use a container to work in. So the image is like the building and the container is like an apartment in the building. Users share the kernel (likened to plumbing in the example), but they have their own way to get in. The important thing to remember is that any changes made in a container are temporary.",
     "crumbs": [
       "NWFSC Specifics",
       "Data Management"
@@ -33,14 +97,21 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IWCPS details and protocols",
+    "objectID": "nwfsc-specifics/index.html",
+    "href": "nwfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
     "section": "",
-    "text": "Welcome to the IWCPS!",
+    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
     "crumbs": [
-      "Welcome"
+      "NWFSC Specifics"
     ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/index.html",
+    "href": "nwfsc-specifics/clamshowto/index.html",
+    "title": "NWFSC CLAMS basics",
+    "section": "",
+    "text": "Hake Specific CLAMS Guide\nCreated by Alicia Billings alicia.billings@noaa.gov May 2025"
   },
   {
     "objectID": "swfsc-specifics/index.html",
@@ -50,16 +121,6 @@
     "text": "Welcome to the SWFSC specific IWCPS protocols section",
     "crumbs": [
       "SWFSC Specifics"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/index.html",
-    "href": "nwfsc-specifics/index.html",
-    "title": "IWCPS Protocols",
-    "section": "",
-    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
-    "crumbs": [
-      "NWFSC Specifics"
     ]
   }
 ]
