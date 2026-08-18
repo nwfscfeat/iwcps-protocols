@@ -20,7 +20,7 @@ website:
             - section: "FEAT Field Guide"
               href: fieldguide/index.qmd
               contents:
-                - fieldguide/introductions.qmd
+                - fieldguide/introduction.qmd
             - section: "CLAMS Basics"
               href: clamshowto/index.qmd
               contents:
