@@ -4,16 +4,30 @@ title: Data Management
 ---
 
 This will have introduction information about the page and the data management steps
+
+## Data flow diagram
+
 ## Before the survey
-### Getting the CLAMS database ready
+### Steps
+**Getting the CLAMS database ready**
+
+**Deploying CLAMS database**
+
+
 
 ## During the survey
 ### Steps
+**Data Collection**
 
+**Backing up and creating reports**
 
-### Initial QAQC of raw data
+**Initial QAQC of raw data**
 
-### Data flow diagram
+**Using Docker for QAQC**
+Using Docker is kind of having an apartment in an apartment building. The Docker image/template is built and users are
+able to use a container to work in. So the image is like the building and the container is like an apartment in the building.
+Users share the kernel (likened to plumbing in the example), but they have their own way to get in. The important thing to
+remember is that **any changes made in a container are temporary**.
 
 ## After the survey
 ### Steps

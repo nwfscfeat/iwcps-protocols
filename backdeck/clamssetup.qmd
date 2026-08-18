@@ -1,0 +1,25 @@
+---
+layout: default
+title: CLAMS setup
+---
+
+Setting up the database computer
+* download and install postgres (latest version as of 5/8/26 - 18.3)
+    * NWFSC superuser password - pinghake
+    * Leave port at 5432
+* install database instance
+    * Use DBeaver
+        * Choose new Postgres connection
+            * if this is the first time, you'll be prompted to download the driver files
+            * Be sure to check Show all databases
+            * use common NWFSC password for clams2nwfsc database
+        * New connection settings
+            * if this is the first time you've used DBeaver, use the default postgres database first and then follow these instructions
+            * Right click databases under postgres connection and select Create new database
+            * name the database clams2nwfsc
+            * Right click schemas under the clams2nwfsc database and create new schema
+            * name the schema clams2nwfsc
+            * Tools -> restore
+        * Connect to the same network that holds the CLAMShells
+        * Set the IP address to a static address
+        * Update the

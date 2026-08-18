@@ -8,10 +8,26 @@ website:
       contents:
         - text: "Welcome"
           href: index.qmd
+        - section: "Back deck basics"
+          href: backdeck/index.qmd
+          contents:
+            - backdeck/clamssetup.qmd
+            - backdeck/settingup.qmd
         - section: "NWFSC Specifics"
           href: nwfsc-specifics/index.qmd
           contents:
             - nwfsc-specifics/nwfsc-datamanagement.qmd
+            - section: "FEAT Field Guide"
+              href: field-guide/index.qmd
+              contents:
+                - fieldguide/introductions.qmd
+            - section: "CLAMS Basics"
+              href: clamshowto/index.qmd
+              contents:
+                - clamshowto/logging_events.qmd
+                - clamshowto/entering_catch.qmd
+                - clamshowto/finishing_tow.qmd
+                - clamshowto/running_reports.qmd
         - section: "SWFSC Specifics"
           href: swfsc-specifics/index.qmd
           #contents:

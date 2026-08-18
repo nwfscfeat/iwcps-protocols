@@ -1,0 +1,10 @@
+---
+layout: default
+title: Back deck basics
+---
+
+
+This section will go over:
+* Preparing CLAMS
+* Setting up the backdeck computers
+* Stuff and things
