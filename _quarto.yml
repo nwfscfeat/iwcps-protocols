@@ -18,7 +18,7 @@ website:
           contents:
             - nwfsc-specifics/nwfsc-datamanagement.qmd
             - section: "FEAT Field Guide"
-              href: field-guide/index.qmd
+              href: fieldguide/index.qmd
               contents:
                 - fieldguide/introductions.qmd
             - section: "CLAMS Basics"
