@@ -10,6 +10,13 @@
     ]
   },
   {
+    "objectID": "nwfsc-specifics/fieldguide/index.html",
+    "href": "nwfsc-specifics/fieldguide/index.html",
+    "title": "FEAT Wet Lab Field Guide",
+    "section": "",
+    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab."
+  },
+  {
     "objectID": "backdeck/clamssetup.html",
     "href": "backdeck/clamssetup.html",
     "title": "CLAMS setup",
