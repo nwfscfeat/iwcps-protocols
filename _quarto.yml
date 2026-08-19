@@ -18,16 +18,16 @@ website:
           contents:
             - nwfsc-specifics/nwfsc-datamanagement.qmd
             - section: "FEAT Field Guide"
-              href: fieldguide/index.qmd
+              href: nwfsc-specifics/fieldguide/index.qmd
               contents:
-                - fieldguide/introduction.qmd
+                - nwfsc-specifics/fieldguide/introduction.qmd
             - section: "CLAMS Basics"
-              href: clamshowto/index.qmd
+              href: nwfsc-specifics/clamshowto/index.qmd
               contents:
-                - clamshowto/logging_events.qmd
-                - clamshowto/entering_catch.qmd
-                - clamshowto/finishing_tow.qmd
-                - clamshowto/running_reports.qmd
+                - nwfsc-specifics/clamshowto/logging_events.qmd
+                - nwfsc-specifics/clamshowto/entering_catch.qmd
+                - nwfsc-specifics/clamshowto/finishing_tow.qmd
+                - nwfsc-specifics/clamshowto/running_reports.qmd
         - section: "SWFSC Specifics"
           href: swfsc-specifics/index.qmd
           #contents:
