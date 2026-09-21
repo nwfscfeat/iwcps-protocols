@@ -20,7 +20,7 @@ website:
             - section: "FEAT Field Guide"
               href: nwfsc-specifics/fieldguide/index.qmd
               contents:
-                - nwfsc-specifics/fieldguide/introduction.qmd
+                - nwfsc-specifics/fieldguide/responsibilities.qmd
             - section: "CLAMS Basics"
               href: nwfsc-specifics/clamshowto/index.qmd
               contents:
