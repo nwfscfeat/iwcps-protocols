@@ -21,6 +21,7 @@ website:
               href: nwfsc-specifics/fieldguide/index.qmd
               contents:
                 - nwfsc-specifics/fieldguide/responsibilities.qmd
+                - nwfsc-specifics/fieldguide/shipsafety.qmd
             - section: "CLAMS Basics"
               href: nwfsc-specifics/clamshowto/index.qmd
               contents:
