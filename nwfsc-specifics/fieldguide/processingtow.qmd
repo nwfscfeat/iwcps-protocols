@@ -1,0 +1,11 @@
+---
+layout: default
+title: Preparing and Processing a Tow
+---
+
+::: {.callout-note icon=false title ="Additional Resources"}
+
+A single-sheet checklist for the current cruise of the duties required to prepare for and process a tow is in the lab materials available in the wet lab.
+
+:::
+
