@@ -3,27 +3,26 @@ layout: default
 title: Preparing and Processing a Tow
 ---
 
-::: {.callout-note icon=false title ="Additional Resources"}
+
 
 A single-sheet checklist for the current cruise of the duties required to prepare for and process a tow is in the lab materials available in the wet lab.
 
-:::
 
-## Marine Mammal Watch
+
+## Marine Mammal Watch :whale:
 
 A marine mammal watch is required before every trawl activity. See Chief Scientist for current protocols.
 
-## Prepare Peripheral Devices
+## Prepare Peripheral Devices :video_camera:
 
 Most tows will have at least one NWFSC/FRAM sensor attached. Each sensor has a short one-sheeter of specifics for how to run the sensor. The same goes for any other attached devices such as cameras or light meters.
 
-## Fish Sampling Protocols -- Best Practices
+## Fish Sampling Protocols -- Best Practices :fish:
 
-::: {.callout-important title ="IMPORTANT"}
 
-***ALL FISH IN THE CODEND ARE CONSIDERED IN THE SAMPLE – DO NOT PICK FROM INTERMEDIATE***
+:bangbang:***ALL FISH IN THE CODEND ARE CONSIDERED IN THE SAMPLE – DO NOT PICK FROM INTERMEDIATE***:bangbang:
 
-:::
+
 
 ::: {.panel-tabset}
 
@@ -96,7 +95,7 @@ Systematic random sampling is a method in which every nth unit is taken from a p
 
 :::
 
-### FEAT Sampling Term Definitions
+### FEAT Sampling Term Definitions :clipboard:
 
 **Population:** all of the fish in the codend
 
@@ -105,6 +104,7 @@ Systematic random sampling is a method in which every nth unit is taken from a p
 **Interval:** the constant difference between units that will be a part of the sample
 
 **Random Start:** a number between 1 and the interval, determined randomly by using a random number table or some other comparable method such as the second hand on a clock
+
 
 #### Examples of Suggested Methods
 
@@ -147,7 +147,7 @@ Systematic random sampling is a method in which every nth unit is taken from a p
 
 :::
 
-## TL;DR Summary
+## TL;DR Summary :memo:
 
 * Random sampling is the key 
 * You must process everything that ends up in a random sample if you already start sampling!
@@ -155,7 +155,7 @@ Systematic random sampling is a method in which every nth unit is taken from a p
 * Ask the FEAT team’s lead biologist if you need help determining how to gather random samples
 
 
-## Sampling Scenario
+## Sampling Scenario :lab_coat:
 
 For the cruise you are on, you are asked to collect 400 fish, of which 50 are for otoliths. A codend is dumped into the hopper and you estimate that it will take **28 baskets** to empty. You count the first basket and there are **100 hake**. Since you need about 4 baskets (400 needed/100 in a basket) to get your 400 fish, the **interval is 7** (28 estimated baskets/4 baskets for your sample). To determine the starting basket, you close your eyes and poke the random number table. The first number you pick is an 8, which is outside of the 1-7 range you need. Going again, you end up with a 5. 
 
@@ -168,3 +168,7 @@ You now have a total of 6 baskets when you only need 4. You can select either th
 Now that you have your overall sample, you will need to choose 1 basket for the otolith fish. Again, number the remaining baskets (1 to 4). Use the random number table to select a number between 1 and 4. Grab the corresponding basket. Remember, however, that there are 100 fish in this basket while we only need 50. To pare it down randomly, you use a method called a ‘basket dump’. First, you line up two empty baskets next to each other longwise. Take the selected basket, line it up so the middle is directly in line with where the two empty baskets meet, and dump. The left basket is now 1 and right is now 2. Go to the random number table again, designating all odd numbers as a sign for basket 1 and even for basket 2. You choose a 6 so basket 2 (good old righty) is now your otolith fish.
 
 You may end up with more or less than 50 in this otolith basket. Regardless, these are your sample fish and you cannot add more or take out some to get it to exactly 50. 
+
+## Using CLAMS :oyster:
+
+For more information, see the latest [CLAMS guide](../clamshowto/index.qmd).

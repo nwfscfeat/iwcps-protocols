@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Ship Safety
+title: Ship Safety 
 ---
-## Tsunamis – What to do in port
+## Tsunamis – What to do in port :ocean:
 * When you’re in port (before, in between, or after a leg of the cruise) it is important to familiarize yourself with potential tsunami evacuation routes depending on where you are.
 * Before you go on a planned outing, familiarize yourself with where you will be on the map and the best route for evacuation.
 * Potential threats from a tsunami can vary drastically, so a little planning can go a long way to ensure the safety of oneself, and those around you.
@@ -11,7 +11,7 @@ title: Ship Safety
 
 ::: {.panel-tabset}
 
-### Newport, OR Tsunami Evacuation
+### Newport, OR
 * The map below is separated into Newport-North and Newport-South, with the Newport-North map for when you are north of the Yaquina Bay Bridge, and Newport-South for when you are south of the bridge.
 * The <span style="color: #F54927;">ORANGE</span> regions on the map represent the area that must be evacuated if there is a distant tsunami, in which the earthquake occurs far from the Oregon Coast.
 * The <span style="color: #F5B027;">YELLOW</span> regions on the map represent the area that must be evacuated if there is a local Cascadia earthquake and tsunami that occurs on the Oregon Coast.
@@ -27,7 +27,7 @@ title: Ship Safety
 
 :::
 
-### San Francisco, CA Tsunami Evacuation
+### San Francisco, CA
 * The map below does not provide as much detail as the Newport, OR map. 
 * The link below will take you to the same map that is interactive. This allows you to identify your location and evacuation areas around you in greater detail than the map. 
 * Wherever you might be in San Francisco, you will be less than 10 blocks from a safe area should a Tsunami occur. 
@@ -38,7 +38,7 @@ title: Ship Safety
 
 ![](photos/SanFranTsunamiMap.png)
 
-### Seattle, WA Tsunami Evacuation
+### Seattle, WA
 * Due to the terrain in and around Seattle, you are not far from safety should an earthquake/tsunami occur. 
 * The map on the next page provides a different look at the tsunami hazard zones in Seattle. This map was created to show the potential levels of inundation from a tsunami associated with an earthquake along the Seattle Fault. As you can see, areas that have an inlet or cove represent the highest threat of inundation from a tsunami. 
 * The <span style="color: #38DB00;">GREEN</span> on the map represents areas where inundation from a tsunami could be 0-0.5 meters. The <span style="color: #F5B027;">YELLOW</span> on the map represents areas where inundation from a tsunami could be 0.5-2.0 meters. The <span style="color: #F54927;">ORANGE</span> on the map represents areas where inundation from a tsunami could be 2.0-5.0 meters. 
@@ -49,7 +49,7 @@ title: Ship Safety
 :::
 
 
-## Chemicals
+## Chemicals :goggles:
 Read the SDS for the chemicals (available in the Chem Lab, with the Chief Scientist in the Safety Binder, and in the Spill Kit) and make sure you know where they are in case you need to use them!
 
 ### General Information
@@ -115,7 +115,7 @@ If you are splashed, there are eyewash stations and showers in both the Wet Lab 
 
 :::
 
-## Wet Lab Safety and Pinch Points
+## Wet Lab Safety and Pinch Points :gloves:
 
 ::: {.panel-tabset}
 
@@ -152,7 +152,7 @@ Using hoses and soap can create slipping and tripping hazards. Also, some of the
 
 ::: 
 
-## Working on Deck
+## Working on Deck :ring_buoy:
 
 ### Requirements
 During operations, a personal flotation device (PFD) is required. For any operations where things are moving around above your head, such as trawls, CTDs, and vertical nets, a hard hat is also required. You will be assigned a personal locator beacon (PLB) in a pouch. While not required, it is a good idea to keep that with you, especially on deck. These are invaluable if you ever do find yourself in a situation where you end up in the water.
@@ -170,7 +170,7 @@ When fish are brought aboard, the deck crew will be operating the crane to empty
 
 ::: 
 
-## Problem Fish and Saltwater
+## Problem Fish and Saltwater :blowfish:
 
 ::: {.panel-tabset}
 ### Rockfish

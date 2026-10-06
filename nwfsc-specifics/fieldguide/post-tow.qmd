@@ -1,0 +1,35 @@
+---
+layout: default
+title: Post Tow
+---
+
+## Clean the Wet Lab :sponge:
+
+In between tows, the lab should be rinsed to minimize the smell.
+
+* Rinse the monitors with freshwater and ‘dry’ using either a squeegee or towels 
+* Rinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales 
+* Rinse blood and guts off of deck, easiest is to go from forward to aft 
+* Use a floor squeegee to ‘dry’ the deck as much as possible 
+* Use a smaller squeegee to ‘dry’ the tables
+
+
+## Replace Depleted Items :arrows_clockwise:
+
+The white caddy is used to hold all of the tools needed to sample a tow. Replenish the supplies with the following:
+
+* 50% ethanol bottle (labeled) – See Ship Safety section for mixing precautions and instructions
+* Cloth sample bags 
+* Sample labels 
+* Scalpel blade handles (at least 5) with fresh blades close to trawl time 
+* Knives (at least 5)
+* Scissors (various sizes)
+* Tweezers (various sizes)
+* Otolith caps 
+* Containers to clean off otoliths (tape holder, sponge, or both)
+* Container to rinse scissors and tweezers for fin clips
+
+
+## Download and Store Peripheral Devices :floppy_disk:
+
+See the specific one-sheeters for the current protocol and instructions on downloading and storing peripheral devices.

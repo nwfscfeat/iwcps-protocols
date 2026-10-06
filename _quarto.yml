@@ -23,6 +23,7 @@ website:
                 - nwfsc-specifics/fieldguide/responsibilities.qmd
                 - nwfsc-specifics/fieldguide/shipsafety.qmd
                 - nwfsc-specifics/fieldguide/processingtow.qmd
+                - nwfsc-specifics/fieldguide/post-tow.qmd
             - section: "CLAMS Basics"
               href: nwfsc-specifics/clamshowto/index.qmd
               contents:
@@ -42,3 +43,4 @@ format:
     toc: true
     toc-location: right
     number-section: false
+from: markdown+emoji

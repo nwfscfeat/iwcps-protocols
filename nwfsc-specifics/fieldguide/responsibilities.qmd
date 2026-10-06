@@ -3,7 +3,7 @@ layout: default
 title: Responsibilities and Expectations
 ---
 
-## Overall
+## Overall :dart:
 * You represent NOAA both on the ship and in port
   * Regardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately
 * You are responsible for yourself 
@@ -21,7 +21,7 @@ title: Responsibilities and Expectations
 * Maintain supplies and equipment 
   * Keep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.
 
-## Duty Priorities
+## Duty Priorities :rotating_light:
 
 * Collecting catch and sample data 
   * While there may be other duties to work on throughout the cruise, the first priority is collecting the catch and sample data. If other duties require attention while sorting and processing is still going on in the lab, work with the acousticians who can either take care of the project or they can take someone’s place in the wet lab. 
@@ -41,5 +41,5 @@ title: Responsibilities and Expectations
   * After the last tow for the leg, a deep clean needs to be done to clean nooks and crannies to free any smelly debris. Simple green is provided (and the ship should have some as well) as well as scrub brushes and sponges in the cleaning bucket. More information on required areas to clean later in the document.
 * Deep, *deep* clean after cruise – See the cleaning sheet for details.
 
-## Keeping Busy Outside of Sampling Duties
+## Keeping Busy Outside of Sampling Duties :zap:
 The lab lead(s) may assign other sampling duties outside the wet lab as well as other duties for the current cruise. If you would like something to do, talk with either the lead(s) or the Chief Scientist.
