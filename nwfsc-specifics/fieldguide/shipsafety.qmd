@@ -116,7 +116,6 @@ If you are splashed, there are eyewash stations and showers in both the Wet Lab 
 :::
 
 ## Wet Lab Safety and Pinch Points
-<span style='color: blue'>(maybe make this into an accordian or tabs?)</span>
 
 ::: {.panel-tabset}
 
@@ -155,8 +154,6 @@ Using hoses and soap can create slipping and tripping hazards. Also, some of the
 
 ## Working on Deck
 
-<span style='color: blue'>(maybe make this into an accordian or tabs?)</span>
-
 ### Requirements
 During operations, a personal flotation device (PFD) is required. For any operations where things are moving around above your head, such as trawls, CTDs, and vertical nets, a hard hat is also required. You will be assigned a personal locator beacon (PLB) in a pouch. While not required, it is a good idea to keep that with you, especially on deck. These are invaluable if you ever do find yourself in a situation where you end up in the water.
 
@@ -179,26 +176,21 @@ When fish are brought aboard, the deck crew will be operating the crane to empty
 ### Rockfish
 Rockfish are spiny. They need to be treated with care when handling. Don’t grab them without a thought or you risk being poked and even breaking a spine off in your skin. The majority of rockfish will be alive, but appear dead, especially at the start of sampling.
 
-(insert rf photo)
+![](photos/RockFish.png)
 
 ### Ratfish
 As with rockfish, ratfish have a spine that precedes the dorsal fin. This spine is big and venomous, so take care when handling.
 
-(insert ratfish photo)
+![](photos/RatFish.png)
 
 ### Pacific Electric Rays
 Since the tows are relatively short, the catch can sometimes come up alive or very freshly dead. These can still have a bit of a sting, so handle with care.
 
-(photo)
+![](photos/PacificElectricRay.png)
 
 ### Saltwater
 Some people are sensitive to saltwater. Change your gloves at least every week, more so if you find your skin peeling and becoming raw. Make sure to thoroughly wash your hands after you leave the lab and use hand lotion.
 
 ::: 
 
-::: {.callout-note icon=false title ="Additional Resources"}
-
-A single-sheet checklist for the current cruise of the duties required to prepare for and process a tow is in the lab materials available in the wet lab.
-
-:::
 
