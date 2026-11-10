@@ -1,5 +1,352 @@
 [
   {
+    "objectID": "swfsc-specifics/index.html",
+    "href": "swfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
+    "section": "",
+    "text": "Welcome to the SWFSC specific IWCPS protocols section",
+    "crumbs": [
+      "SWFSC Specifics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/index.html",
+    "href": "nwfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
+    "section": "",
+    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
+    "crumbs": [
+      "NWFSC Specifics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/index.html",
+    "href": "nwfsc-specifics/fieldguide/index.html",
+    "title": "FEAT Wet Lab Field Guide",
+    "section": "",
+    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/index.html#introduction",
+    "href": "nwfsc-specifics/fieldguide/index.html#introduction",
+    "title": "FEAT Wet Lab Field Guide",
+    "section": "",
+    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/processingtow.html",
+    "href": "nwfsc-specifics/fieldguide/processingtow.html",
+    "title": "Preparing and Processing a Tow",
+    "section": "",
+    "text": "A single-sheet checklist for the current cruise of the duties required to prepare for and process a tow is in the lab materials available in the wet lab.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Preparing and Processing a Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/processingtow.html#marine-mammal-watch",
+    "href": "nwfsc-specifics/fieldguide/processingtow.html#marine-mammal-watch",
+    "title": "Preparing and Processing a Tow",
+    "section": "Marine Mammal Watch 🐳",
+    "text": "Marine Mammal Watch 🐳\nA marine mammal watch is required before every trawl activity. See Chief Scientist for current protocols.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Preparing and Processing a Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/processingtow.html#prepare-peripheral-devices",
+    "href": "nwfsc-specifics/fieldguide/processingtow.html#prepare-peripheral-devices",
+    "title": "Preparing and Processing a Tow",
+    "section": "Prepare Peripheral Devices 📹",
+    "text": "Prepare Peripheral Devices 📹\nMost tows will have at least one NWFSC/FRAM sensor attached. Each sensor has a short one-sheeter of specifics for how to run the sensor. The same goes for any other attached devices such as cameras or light meters.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Preparing and Processing a Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/processingtow.html#fish-sampling-protocols-best-practices",
+    "href": "nwfsc-specifics/fieldguide/processingtow.html#fish-sampling-protocols-best-practices",
+    "title": "Preparing and Processing a Tow",
+    "section": "Fish Sampling Protocols – Best Practices 🐟",
+    "text": "Fish Sampling Protocols – Best Practices 🐟\n‼️ALL FISH IN THE CODEND ARE CONSIDERED IN THE SAMPLE – DO NOT PICK FROM INTERMEDIATE‼️\n\nTotal Catch SubsamplingCollecting Specimens from Sorted CatchBasics – Random vs. HaphazardSpecifics\n\n\nPreferred Order of Determining Catch:\n\nWhole-haul/Table\nGuesstimate\nVolumetric\n\n\nWhole-haulGuesstimateVolumetric\n\n\nWhole-haul: Everything can be weighed\nIf you have a catch larger than the hopper, you may be able to do multiple dumps into the hopper to process. If the catch is relatively clean, the bycatch can be pulled off for the entire catch (like whole-haul sampling). If the catch is not clean, treat the entire catch as a mix. While everything is run through the wet lab, only one hopper dump is randomly chosen to sort to species and use for biosampling.\n\n\nGuesstimate: Use your experience to estimate the weight of the entire catch\nAnother way to deal with a large catch is to use your experience to estimate the total weight of a catch. You can use a variety of methods to increase the accuracy of your estimate. One that works well is to visually define sections of the catch, choose one section to weigh and sample from (randomly, of course), and extrapolate that weight to the total number of sections for a weight estimate.\n\n\nVolumetirc: Measure the Codend\nThe crane that is used to pick up the codend may not be able to lift it to do multiple hopper dumps. You can measure the codend and determine a density to get an estimated total weight of the catch. A full codend usually falls into one of two shapes: Cylinder or Frustum. Once the codend is measured, visually divide it into equal portions and randomly select at least one to sort and weigh everything. Use this portion to take all biological samples.\n\n\n\n\n\n\n\nFor a codend shaped like a cylinder, you need to get the diameter across (d), the height (h), and the length of the codend (l).\n\n\n\n\nFor a codend shaped like a frustum, you need to get the diameters for the larger end (d1 and d2) and the smaller end (d3 and d4), as well as the length (l).\n\n\nDetermine the Density:\n\nThe density is a measure of how compact or spaced the fish are within the bin, measured as the mass divided by the volume.\nTo determine this, take a basket of the UNSORTED catch, filled up to the top of the last full row of vertical slats, and weigh it to at least a tenth of a kilogram on a calibrated scale.\nDivide that weight by the volume of the basket using the following formula and enter the final number into the density box.\n\nDensity = Wt of basket (kg)/ 0.029638(m3)\n\n\n\n\n\n\n\n\n\nBecause of the relatively large number of otoliths and lengths involved from one species, they are normally sampled at two separate locations. The fishes used for length frequency are sampled at one station, while the otolith and special sampling fish are sampled at another. To do this in a timely fashion and still get a random sample, the otolith fish are a subsample taken from the randomly selected length fish.\n\n\nGathering a random sample, whether it is to subsample the total catch or to gather fish for biosampling, is the most important priority. A random sample is a way of getting a representative portion of the population by ensuring that every organism in that population has a chance of getting into the sample. The probability can be determined in a sample gathered in this way. A frame must be set up beforehand and followed completely to the end.\nA haphazard sample, however, does not produce an accurate probability of an organism getting into the sample. Therefore, a representative sample is not guaranteed. A haphazard sample does not have a frame set up beforehand and is more of a ‘take it whenever’ type of gathering. This introduces unintentional bias by the ‘chooser’ and is not the protocol of the FEAT team.\nBecause over 99% of the time the catch ends up in a basket, a random systematic sampling frame is usually the easiest to create for tows that have more than the required number of fish for a full sample (check the Species Sampling Summary in the wet lab materials for current cruise protocol). After the number of baskets is determined to fulfill the amount of fish needed for a full sample, every nth basket is weighed, marked as a subsample, and set aside. All other baskets are weighed and thrown overboard. When all of the fish are processed and sorting is complete, a random sample of the baskets that were set aside is taken to get enough fish for the otolith samples.\n\n\nDetermining baskets to keep for length and otolith samples\nSystematic random sampling is a method in which every nth unit is taken from a population starting from a randomly selected unit within the predetermined interval. The constant difference between each unit (the ‘nth’) is the interval.\n\n\n\n\nFEAT Sampling Term Definitions 📋\nPopulation: all of the fish in the codend\nUnit: usually a basket, but in general is any way to slice the population into (roughly) equal parts\nInterval: the constant difference between units that will be a part of the sample\nRandom Start: a number between 1 and the interval, determined randomly by using a random number table or some other comparable method such as the second hand on a clock\n\nExamples of Suggested Methods\n\nGeneralSpecific\n\n\n\nDetermine the sampling interval\n\nMake an educated guess of the number of total units in the population\nDetermine a rough amount of fish per unit\nDetermine how many units are needed to get fish for the sample\n\nDivide the number of fish needed by the number of fish per unit\n\nDetermine the interval\n\nDivide the total number of units by the number of units needed\n\n\nDetermine a random start within the interval using a random number table, watch, or other means\nDetermine which units to sample by taking every nth unit starting from the random start point\nDetermine which unit to use for otolith fish\nCollect otolith fish randomly from the unit\n\n\n\n\nDetermine the sampling interval\n\nAn educated guess is made as to the total number of baskets in the codend (or the fish hopper). As experience is gained, this number will become more accurate. Until you feel comfortable doing it on your own, ask others or the survey tech to help you guess. When everyone is ready and the conveyor belt is running, the hopper gate is opened and a small amount of fish is let out at a time.\nTo determine the amount of fish per unit, an easy way is to count the number of fish that fill up the first basket. The number will change dramatically as the size of the fish changes. After a while, you may not need to count to get a rough estimate of the number of fish per unit.\nThe amount needed for a sample is outlined in a document specific to each season. To determine how many baskets (units) will be needed to get the sample, divide the total number needed by the number counted for the first basket.\nTo determine the interval, divide the total number of baskets guessed in the first step by the number of baskets needed that was determined in the previous step.\n\nDetermine a random start\n\nUse a random number table (one is taped to a FSCS control box), the seconds on a clock (one is on the upper right-hand portion of the screen), or any other comparable method to select a number between 1 and the interval.\n\nDetermine the baskets to collect for the sample\n\nBy adding the interval to the random start, the next sample basket is determined\nContinue in this manner until you reach the end of the total number of baskets\n\nYou may end up with more baskets collected than you wanted. DO NOT stop when you reach the amount you need. Keep going until the catch is completely processed. You can pare the total baskets down by using a random number table to select the baskets you are going to keep (see sampling scenario).\n\n\nDetermine which basket(s) to get otolith fish from\n\nSometimes the amount of fish in a basket is more than the number necessary for the species and sometimes it is less. If it is more, it will need to be randomly pared down. If it is less, more than one basket will need to be selected.\nUse a random number table (one is taped near Station 1), the seconds on a clock, or any other comparable method, and select a number (or several numbers if more than one basket is needed) between 1 and the total number of collected subsample baskets.\n\nRandomly select the otolith fish from the basket if there are too many\n\nVarious methods are available, however using a ‘basket dump’ seems to be the easiest and the least time-consuming.\n\nA basket dump is when two baskets are placed long side by long side and the basket is poured over the top of the two to create two approximately equal samples. You can do this several times with multiple baskets to get down to the desired number of otoliths.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Preparing and Processing a Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/processingtow.html#tldr-summary",
+    "href": "nwfsc-specifics/fieldguide/processingtow.html#tldr-summary",
+    "title": "Preparing and Processing a Tow",
+    "section": "TL;DR Summary 📝",
+    "text": "TL;DR Summary 📝\n\nRandom sampling is the key\nYou must process everything that ends up in a random sample if you already start sampling!\n\nYou cannot pare down the sample size if you realize you gathered too many after you already started processing the samples. For example, if you get 55 instead of 50 fish to process otoliths, you MUST sample all 55 instead of stopping at the required 50.\n\nAsk the FEAT team’s lead biologist if you need help determining how to gather random samples",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Preparing and Processing a Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/processingtow.html#sampling-scenario",
+    "href": "nwfsc-specifics/fieldguide/processingtow.html#sampling-scenario",
+    "title": "Preparing and Processing a Tow",
+    "section": "Sampling Scenario 🥼",
+    "text": "Sampling Scenario 🥼\nFor the cruise you are on, you are asked to collect 400 fish, of which 50 are for otoliths. A codend is dumped into the hopper and you estimate that it will take 28 baskets to empty. You count the first basket and there are 100 hake. Since you need about 4 baskets (400 needed/100 in a basket) to get your 400 fish, the interval is 7 (28 estimated baskets/4 baskets for your sample). To determine the starting basket, you close your eyes and poke the random number table. The first number you pick is an 8, which is outside of the 1-7 range you need. Going again, you end up with a 5.\nAs you fill up the baskets, you record the weight and dump overboard until you get to the 5th basket. This basket is weighed, marked as a measure basket, and set aside. The weights of the next 6 baskets are recorded and the contents dumped. The 7th basket (12th basket overall) is again weighed, marked as a subsample, and set aside. Keep the baskets in order in case you need to dump any! It’s much easier to determine which basket is which in CLAMS if you do this, and you will need to know this to change it from a measure basket to a toss basket.\nContinuing this way, you pass your original estimate of 28 total baskets. When you get to basket 33, you must take it as a subsample, even though you now have more baskets than you need. Basket number 40 comes and again, you must take it as a subsample. The hake catch is finally over at basket number 43.\nYou now have a total of 6 baskets when you only need 4. You can select either the baskets you are going to keep or the baskets you are going to discard. Either way, you will need to assign a number to each basket (1 to 6). Since you need to get rid of 2, it’s easier to select the ones to discard in this situation. Once they are numbered, use a random number table to choose 2 numbers between 1 and 6. You choose a 3 and a 6. To discard these baskets, you must make sure that you change it from a measure basket to the toss basket in CLAMS. This is extremely important! If you do not do this, the averages will be thrown off for the entire haul and the data may need to be thrown out! Since you choose 3 and 6 to discard, find those baskets in CLAMS and change the basket type for them from Measure to Toss.\nNow that you have your overall sample, you will need to choose 1 basket for the otolith fish. Again, number the remaining baskets (1 to 4). Use the random number table to select a number between 1 and 4. Grab the corresponding basket. Remember, however, that there are 100 fish in this basket while we only need 50. To pare it down randomly, you use a method called a ‘basket dump’. First, you line up two empty baskets next to each other longwise. Take the selected basket, line it up so the middle is directly in line with where the two empty baskets meet, and dump. The left basket is now 1 and right is now 2. Go to the random number table again, designating all odd numbers as a sign for basket 1 and even for basket 2. You choose a 6 so basket 2 (good old righty) is now your otolith fish.\nYou may end up with more or less than 50 in this otolith basket. Regardless, these are your sample fish and you cannot add more or take out some to get it to exactly 50.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Preparing and Processing a Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/processingtow.html#using-clams",
+    "href": "nwfsc-specifics/fieldguide/processingtow.html#using-clams",
+    "title": "Preparing and Processing a Tow",
+    "section": "Using CLAMS 🦪",
+    "text": "Using CLAMS 🦪\nFor more information, see the latest CLAMS guide.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Preparing and Processing a Tow"
+    ]
+  },
+  {
+    "objectID": "backdeck/clamssetup.html",
+    "href": "backdeck/clamssetup.html",
+    "title": "CLAMS setup",
+    "section": "",
+    "text": "Setting up the database computer * download and install postgres (latest version as of 5/8/26 - 18.3) * NWFSC superuser password - pinghake * Leave port at 5432 * install database instance * Use DBeaver * Choose new Postgres connection * if this is the first time, you’ll be prompted to download the driver files * Be sure to check Show all databases * use common NWFSC password for clams2nwfsc database * New connection settings * if this is the first time you’ve used DBeaver, use the default postgres database first and then follow these instructions * Right click databases under postgres connection and select Create new database * name the database clams2nwfsc * Right click schemas under the clams2nwfsc database and create new schema * name the schema clams2nwfsc * Tools -&gt; restore * Connect to the same network that holds the CLAMShells * Set the IP address to a static address * Update the",
+    "crumbs": [
+      "Back deck basics",
+      "CLAMS setup"
+    ]
+  },
+  {
+    "objectID": "backdeck/settingup.html",
+    "href": "backdeck/settingup.html",
+    "title": "Setting up back deck computers",
+    "section": "",
+    "text": "The back deck blah blah blah\nStations: * Computer box * Monitor * Cables * Length board * Scale * Scanner * Printer",
+    "crumbs": [
+      "Back deck basics",
+      "Setting up back deck computers"
+    ]
+  },
+  {
+    "objectID": "backdeck/index.html",
+    "href": "backdeck/index.html",
+    "title": "Back deck basics",
+    "section": "",
+    "text": "This section will go over: * Preparing CLAMS * Setting up the backdeck computers * Stuff and things",
+    "crumbs": [
+      "Back deck basics"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IWCPS details and protocols",
+    "section": "",
+    "text": "Welcome to the IWCPS!",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/index.html",
+    "href": "nwfsc-specifics/clamshowto/index.html",
+    "title": "NWFSC CLAMS basics",
+    "section": "",
+    "text": "Hake Specific CLAMS Guide\nCreated by Alicia Billings alicia.billings@noaa.gov May 2025",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html",
+    "href": "nwfsc-specifics/fieldguide/shipsafety.html",
+    "title": "Ship Safety",
+    "section": "",
+    "text": "When you’re in port (before, in between, or after a leg of the cruise) it is important to familiarize yourself with potential tsunami evacuation routes depending on where you are.\nBefore you go on a planned outing, familiarize yourself with where you will be on the map and the best route for evacuation.\nPotential threats from a tsunami can vary drastically, so a little planning can go a long way to ensure the safety of oneself, and those around you.\nMaps are provided below for common ports. Make note of the docking location for the ship.\nLinks are also provided for an online version of each port’s tsunami evacuation map.\n\n\nNewport, ORSan Francisco, CASeattle, WA\n\n\n\nThe map below is separated into Newport-North and Newport-South, with the Newport-North map for when you are north of the Yaquina Bay Bridge, and Newport-South for when you are south of the bridge.\nThe ORANGE regions on the map represent the area that must be evacuated if there is a distant tsunami, in which the earthquake occurs far from the Oregon Coast.\nThe YELLOW regions on the map represent the area that must be evacuated if there is a local Cascadia earthquake and tsunami that occurs on the Oregon Coast.\nThe GREEN regions on the map represent the area that is outside the hazard area. Evacuate to the green if you there is a tsunami warning, if you feel an earthquake, OR if you are unsure about the risk for any reason.\nRemain in the evacuation zone until you are notified by authorities that it is safe to leave\nThis link will take you to the same maps seen below. It will allow you to zoom in to identify where you are and evacuation areas around you.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe map below does not provide as much detail as the Newport, OR map.\nThe link below will take you to the same map that is interactive. This allows you to identify your location and evacuation areas around you in greater detail than the map.\nWherever you might be in San Francisco, you will be less than 10 blocks from a safe area should a Tsunami occur.\nThe YELLOW on the map represents a tsunami hazard area and should be evacuated if you feel an earthquake, if you are given a tsunami warning, OR if you are unsure of the situation.\nThe GREEN on the map represents safe evacuation locations.\nAs San Francisco is a large city, if a localized earthquake/tsunami event were to occur, you should be aware of the dangers associated with evacuating to an area that has large buildings and other vulnerable structures.\nRefer to this link for a much more detailed, interactive map to plan your safe evacuation route.\n\n\n\n\n\nDue to the terrain in and around Seattle, you are not far from safety should an earthquake/tsunami occur.\nThe map on the next page provides a different look at the tsunami hazard zones in Seattle. This map was created to show the potential levels of inundation from a tsunami associated with an earthquake along the Seattle Fault. As you can see, areas that have an inlet or cove represent the highest threat of inundation from a tsunami.\nThe GREEN on the map represents areas where inundation from a tsunami could be 0-0.5 meters. The YELLOW on the map represents areas where inundation from a tsunami could be 0.5-2.0 meters. The ORANGE on the map represents areas where inundation from a tsunami could be 2.0-5.0 meters.\nWhile this map doesn’t actually show you where to go if a tsunami were to occur, it is an important reference depicting areas to avoid should an event occur. Should an earthquake, tsunami warning, or uncertainty involving an earthquake/tsunami occur, your first priority is to head for higher ground.\nFollow this link to find out more information about a potential earthquake/tsunami in Seattle.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Ship Safety"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#tsunamis-what-to-do-in-port",
+    "href": "nwfsc-specifics/fieldguide/shipsafety.html#tsunamis-what-to-do-in-port",
+    "title": "Ship Safety",
+    "section": "",
+    "text": "When you’re in port (before, in between, or after a leg of the cruise) it is important to familiarize yourself with potential tsunami evacuation routes depending on where you are.\nBefore you go on a planned outing, familiarize yourself with where you will be on the map and the best route for evacuation.\nPotential threats from a tsunami can vary drastically, so a little planning can go a long way to ensure the safety of oneself, and those around you.\nMaps are provided below for common ports. Make note of the docking location for the ship.\nLinks are also provided for an online version of each port’s tsunami evacuation map.\n\n\nNewport, ORSan Francisco, CASeattle, WA\n\n\n\nThe map below is separated into Newport-North and Newport-South, with the Newport-North map for when you are north of the Yaquina Bay Bridge, and Newport-South for when you are south of the bridge.\nThe ORANGE regions on the map represent the area that must be evacuated if there is a distant tsunami, in which the earthquake occurs far from the Oregon Coast.\nThe YELLOW regions on the map represent the area that must be evacuated if there is a local Cascadia earthquake and tsunami that occurs on the Oregon Coast.\nThe GREEN regions on the map represent the area that is outside the hazard area. Evacuate to the green if you there is a tsunami warning, if you feel an earthquake, OR if you are unsure about the risk for any reason.\nRemain in the evacuation zone until you are notified by authorities that it is safe to leave\nThis link will take you to the same maps seen below. It will allow you to zoom in to identify where you are and evacuation areas around you.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe map below does not provide as much detail as the Newport, OR map.\nThe link below will take you to the same map that is interactive. This allows you to identify your location and evacuation areas around you in greater detail than the map.\nWherever you might be in San Francisco, you will be less than 10 blocks from a safe area should a Tsunami occur.\nThe YELLOW on the map represents a tsunami hazard area and should be evacuated if you feel an earthquake, if you are given a tsunami warning, OR if you are unsure of the situation.\nThe GREEN on the map represents safe evacuation locations.\nAs San Francisco is a large city, if a localized earthquake/tsunami event were to occur, you should be aware of the dangers associated with evacuating to an area that has large buildings and other vulnerable structures.\nRefer to this link for a much more detailed, interactive map to plan your safe evacuation route.\n\n\n\n\n\nDue to the terrain in and around Seattle, you are not far from safety should an earthquake/tsunami occur.\nThe map on the next page provides a different look at the tsunami hazard zones in Seattle. This map was created to show the potential levels of inundation from a tsunami associated with an earthquake along the Seattle Fault. As you can see, areas that have an inlet or cove represent the highest threat of inundation from a tsunami.\nThe GREEN on the map represents areas where inundation from a tsunami could be 0-0.5 meters. The YELLOW on the map represents areas where inundation from a tsunami could be 0.5-2.0 meters. The ORANGE on the map represents areas where inundation from a tsunami could be 2.0-5.0 meters.\nWhile this map doesn’t actually show you where to go if a tsunami were to occur, it is an important reference depicting areas to avoid should an event occur. Should an earthquake, tsunami warning, or uncertainty involving an earthquake/tsunami occur, your first priority is to head for higher ground.\nFollow this link to find out more information about a potential earthquake/tsunami in Seattle.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Ship Safety"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#chemicals",
+    "href": "nwfsc-specifics/fieldguide/shipsafety.html#chemicals",
+    "title": "Ship Safety",
+    "section": "Chemicals 🥽",
+    "text": "Chemicals 🥽\nRead the SDS for the chemicals (available in the Chem Lab, with the Chief Scientist in the Safety Binder, and in the Spill Kit) and make sure you know where they are in case you need to use them!\n\nGeneral Information\nTypical chemicals brought on board are 37% formaldehyde and 95% ethanol. They need to be diluted. Follow the instructions below.\nSpill kits are available in the Chem Lab as well as a NWFSC-provided kit in the Wet Lab. Eyewash stations are also available in the Chem Lab and Wet Lab.\n\nFormalinEthanolSpills and Splashes\n\n\nDiluting\n\nMost of the time, the formalin has to be diluted from containers of 37% concentration formaldehyde (100% formalin) to 10% formalin (~4% formaldehyde). To mix, use 9 parts seawater to 1 part formaldehyde. Seawater is used because the salt acts as a buffer.\nWear full raingear, eye protection, and gloves to mix.\nWhile pouring the seawater and formalin into the container, do so slowly to minimize any splashing, and be sure to keep your face away.\nMix out on deck if possible. The side station and trawl deck both have access to a saltwater spigot, although the trawl deck may be a better option if there is any rolling motion.\n\nLabeling\nAfter mixing, use the appropriate sticky labels from the chemical label folder on the outside of the container, and add the current date.\nHandling Formalin\n\nAlways wear full raingear, eye protection, and gloves.\nOpen the container slowly and carefully, keeping your nose and face as far away as safely possible\nDo not throw the samples in! Instead, slowly drop them and use the tongs to submerge carefully. Push samples down to ensure they are covered in formalin.\n\n\n\nDiluting\nEthanol comes on board in 95% concentration. One squirt bottle of ~50% will always be used for otoliths, so you will need to reduce the 95% to ~50%. It doesn’t have to be exactly 50%, and it’s better to dilute to a little less than 50% rather than more.\nTo dilute to 50%, fill the bottle halfway with the 95% concentration and fill up to the fill line with fresh water.\nLabeling\nAfter putting the ethanol into the squirt bottles, use the appropriate sticky labels from the chemical label folder on the outside of the container.\nHandling Ethanol\nWear gloves when using the squirt bottles and make sure to secure the bottle between uses and for transit to minimize the possibility of spillage.\n\n\nAny spill needs to be appropriately addressed as outlined in the SDS for the chemical spilled. There is a NWFSC provided spill kit with formalin absorber and diapers, as well as eye protection and bags to contain the spill and clean up materials. There is also a ship’s spill kit in the Chem Lab. If you haven’t completed the NWFSC Formalin Training, please ask Alicia Billings (Alicia.Billings@noaa.gov) to get you set up.\nFormalin\n\nDon personal protective equipment (PPE) such as raingear, eye protection, and gloves\nRemove all sources of ignition\nSoak up with inert absorbent material\nPlace in a properly labeled (with Hazardous Waste sticker), closed container for disposal.\n\nEthanol\n\nDon personal protective equipment (PPE) such as raingear, eye protection, and gloves\nVentilate the area\nUse inert absorbent or diapers\nPlace in a properly labeled (with Hazardous Waste sticker), closed container for disposal.\n\nIf you are splashed, there are eyewash stations and showers in both the Wet Lab and the Chem Lab.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Ship Safety"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#wet-lab-safety-and-pinch-points",
+    "href": "nwfsc-specifics/fieldguide/shipsafety.html#wet-lab-safety-and-pinch-points",
+    "title": "Ship Safety",
+    "section": "Wet Lab Safety and Pinch Points 🧤",
+    "text": "Wet Lab Safety and Pinch Points 🧤\n\nSamplingSlippingTrippingPinchingCleaning\n\n\nKnives, scalpels, tweezers, scissors, and heavy baskets are potential safety issues in the lab. Cut away from your body and be careful of your fingers and palms. Always lift with the legs and avoid twisting.\nTips:\n\nDiscard dull and rusty scalpel blades and knives quickly and into the Sharps Container. Sharp blades mean less pressure to cut and therefore less risk of slipping and cutting fingers.\nUse scissors that fit your fingers. Smaller holes than are comfortable can be dangerous if they become hard to get back off.\nBe careful when you walk with any tool in your hand so you don’t hit someone.\nThe way that the salt and fresh water spray hoses are stored can be dangerous. When putting up and pulling down the hoses, watch where they are and be aware of boat movement or you can hurt yourself or your lab mates.\nUse long-handled fish picks whenever possible to move full baskets across the deck. This will save your back from lifting and twisting in tight spaces.\n\n\n\nThis is a very wet lab, hence the name. There are not a lot of mats, if any, because they can be hard to clean and can become slippery over time with those hard-to-clean fish guts. Wearing boots with traction will help minimize the risk of slipping, but be aware of where you put your feet to avoid the obvious slipping hazards (i.e. fish guts, livers, eyeballs, other goo).\nThe lab can still be slippery well after a tow has been completed. So if you go in without your boots, be aware the deck can still be wet and tread carefully\n\n\nThe lab can get a little cramped while sampling. While the floors are fairly free of tripping hazards, the cramped conditions coupled with the rolling of the boat can create hazards. Keep one hand available to grab onto something at all times. Ask for help when carrying bulky items and always be aware of where you are stepping.\n\n\nUse caution around the conveyor belt pinch-points, as well as the area where the hopper meets the conveyor. Keep fingers out of the way and have someone always available to reach the emergency stop in case of an emergency (the red line overhead that runs parallel activates the emergency stop). Periodically check the emergency stop before a tow to make sure it is functional. If it isn’t, talk with the Chief Scientist or Field Party Chief and the Survey Tech to get it fixed before any more fish come into the lab.\nAnother pinching concern is that of the neck. Switch jobs to keep from getting repetitive use injuries.\n\n\nUsing hoses and soap can create slipping and tripping hazards. Also, some of the cleaners can be harsh to the skin and eyes. Always wear gloves and raingear while cleaning up the lab and be aware of where you put your feet. Eye protection is available as well.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Ship Safety"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#working-on-deck",
+    "href": "nwfsc-specifics/fieldguide/shipsafety.html#working-on-deck",
+    "title": "Ship Safety",
+    "section": "Working on Deck 🛟",
+    "text": "Working on Deck 🛟\n\nRequirements\nDuring operations, a personal flotation device (PFD) is required. For any operations where things are moving around above your head, such as trawls, CTDs, and vertical nets, a hard hat is also required. You will be assigned a personal locator beacon (PLB) in a pouch. While not required, it is a good idea to keep that with you, especially on deck. These are invaluable if you ever do find yourself in a situation where you end up in the water.\n\nSlippingTrippingCraning Operations\n\n\nThe deck is steel with some texture, but it can still be slippery, even without organisms that have fallen from the net. As in the Wet Lab, wearing boots will help, but always watch your feet and be aware.\n\n\nThere are several tripping hazards on the deck. Many are painted a yellow color, and the deck crew will draw attention to temporary hazards with cones, but don’t rely on that. Watch your feet and where you are going to step.\n\n\nWhen fish are brought aboard, the deck crew will be operating the crane to empty the net into the hopper. DO NOT walk out onto the deck unless you are given explicit permission to do so while the crane is operational. If you feel that it is safe to walk out on deck but haven’t been given permission, ask a crew member. Most of the time, a science team member only needs to go out on deck to turn on the power to the hopper to raise and lower it.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Ship Safety"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#problem-fish-and-saltwater",
+    "href": "nwfsc-specifics/fieldguide/shipsafety.html#problem-fish-and-saltwater",
+    "title": "Ship Safety",
+    "section": "Problem Fish and Saltwater 🐡",
+    "text": "Problem Fish and Saltwater 🐡\n\nRockfishRatfishPacific Electric RaysSaltwater\n\n\nRockfish are spiny. They need to be treated with care when handling. Don’t grab them without a thought or you risk being poked and even breaking a spine off in your skin. The majority of rockfish will be alive, but appear dead, especially at the start of sampling.\n\n\n\nAs with rockfish, ratfish have a spine that precedes the dorsal fin. This spine is big and venomous, so take care when handling.\n\n\n\nSince the tows are relatively short, the catch can sometimes come up alive or very freshly dead. These can still have a bit of a sting, so handle with care.\n\n\n\nSome people are sensitive to saltwater. Change your gloves at least every week, more so if you find your skin peeling and becoming raw. Make sure to thoroughly wash your hands after you leave the lab and use hand lotion.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Ship Safety"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html",
+    "title": "Responsibilities and Expectations",
+    "section": "",
+    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
+    "title": "Responsibilities and Expectations",
+    "section": "",
+    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
+    "title": "Responsibilities and Expectations",
+    "section": "Duty Priorities 🚨",
+    "text": "Duty Priorities 🚨\n\nCollecting catch and sample data\n\nWhile there may be other duties to work on throughout the cruise, the first priority is collecting the catch and sample data. If other duties require attention while sorting and processing is still going on in the lab, work with the acousticians who can either take care of the project or they can take someone’s place in the wet lab.\nNote that during towing operations, NO DUMPING is allowed to minimize the possibility of recapture. As soon as the net is in the water, all dumping must cease. This is also the case for any stationary CTD stations, zooplankton net tows, Methot net tows, etc.\n\nPrepare sensors, cameras, etc. to deploy on the net (also called ‘peripheral devices’ in this document)\n\nIt doesn’t take long to get sensors and other peripheral equipment ready to put onto the net. The survey tech will take care of the equipment maintained by the ship (such as the FS70), but the wet lab staff and volunteers should take care of getting the temperature and depth unit(s) ready for deployment, as well as any cameras or other peripheral equipment.\nBe prepared to go out on deck by donning required personal protective equipment (PPE).\n\nHelp with Marine Mammal watches, when possible\n\nMammal watches before towing operations (and in some cases during) are required. If it isn’t interfering with catch processing, the wet lab staff and volunteers will need to help cover the watch so the fisher can focus on their duties. More often than not, the wet lab lead(s) will not be available for the start of the marine mammal watch due to the preparation of peripheral devices.\n\nRetrieve sensors, cameras, etc. from the net\n\nThe survey tech will take care of retrieving the sensors maintained by the ship. Check with the lab lead(s) or chief scientist what the current protocol is for retrieving FEAT maintained equipment. If you are allowed on deck, you must go out with required PPE (hardhat, PFD - personal flotation device).\n\nMaintain data from peripheral equipment\n\nData should be downloaded from the equipment and stored in the appropriate place as soon as possible to ensure that the equipment is in working order before sending it out again.\n\nKeep lab clean between tows\n\nMost of the time, there is another shift, another group, or another science center sharing the wet lab. A good rinse to knock down any fish goo, livers, blood, and other nasties is required after every tow. It’s easier to clean it when it’s fresh instead of waiting until it cakes on. Always clean the lab like it is the last tow of the day to ensure the other shift/group has a clean working environment.\n\nDeep clean lab after every leg\n\nAfter the last tow for the leg, a deep clean needs to be done to clean nooks and crannies to free any smelly debris. Simple green is provided (and the ship should have some as well) as well as scrub brushes and sponges in the cleaning bucket. More information on required areas to clean later in the document.\n\nDeep, deep clean after cruise – See the cleaning sheet for details.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
+    "title": "Responsibilities and Expectations",
+    "section": "Keeping Busy Outside of Sampling Duties ⚡",
+    "text": "Keeping Busy Outside of Sampling Duties ⚡\nThe lab lead(s) may assign other sampling duties outside the wet lab as well as other duties for the current cruise. If you would like something to do, talk with either the lead(s) or the Chief Scientist.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html",
+    "title": "Post Tow",
+    "section": "",
+    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
+    "title": "Post Tow",
+    "section": "",
+    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
+    "title": "Post Tow",
+    "section": "Replace Depleted Items 🔃",
+    "text": "Replace Depleted Items 🔃\nThe white caddy is used to hold all of the tools needed to sample a tow. Replenish the supplies with the following:\n\n50% ethanol bottle (labeled) – See Ship Safety section for mixing precautions and instructions\nCloth sample bags\nSample labels\nScalpel blade handles (at least 5) with fresh blades close to trawl time\nKnives (at least 5)\nScissors (various sizes)\nTweezers (various sizes)\nOtolith caps\nContainers to clean off otoliths (tape holder, sponge, or both)\nContainer to rinse scissors and tweezers for fin clips",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
+    "title": "Post Tow",
+    "section": "Download and Store Peripheral Devices 💾",
+    "text": "Download and Store Peripheral Devices 💾\nSee the specific one-sheeters for the current protocol and instructions on downloading and storing peripheral devices.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
     "objectID": "nwfsc-specifics/nwfsc-datamanagement.html",
     "href": "nwfsc-specifics/nwfsc-datamanagement.html",
     "title": "Data Management",
@@ -52,233 +399,6 @@
     "crumbs": [
       "NWFSC Specifics",
       "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/index.html",
-    "href": "nwfsc-specifics/fieldguide/index.html",
-    "title": "FEAT Wet Lab Field Guide",
-    "section": "",
-    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\n(insert hake photo)\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\n(photo of acoustics reading?)\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/index.html#introduction",
-    "href": "nwfsc-specifics/fieldguide/index.html#introduction",
-    "title": "FEAT Wet Lab Field Guide",
-    "section": "",
-    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\n(insert hake photo)\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\n(photo of acoustics reading?)\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html",
-    "title": "Responsibilities and Expectations",
-    "section": "",
-    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
-    "title": "Responsibilities and Expectations",
-    "section": "",
-    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
-    "title": "Responsibilities and Expectations",
-    "section": "Duty Priorities",
-    "text": "Duty Priorities\n\nCollecting catch and sample data\n\nWhile there may be other duties to work on throughout the cruise, the first priority is collecting the catch and sample data. If other duties require attention while sorting and processing is still going on in the lab, work with the acousticians who can either take care of the project or they can take someone’s place in the wet lab.\nNote that during towing operations, NO DUMPING is allowed to minimize the possibility of recapture. As soon as the net is in the water, all dumping must cease. This is also the case for any stationary CTD stations, zooplankton net tows, Methot net tows, etc.\n\nPrepare sensors, cameras, etc. to deploy on the net (also called ‘peripheral devices’ in this document)\n\nIt doesn’t take long to get sensors and other peripheral equipment ready to put onto the net. The survey tech will take care of the equipment maintained by the ship (such as the FS70), but the wet lab staff and volunteers should take care of getting the temperature and depth unit(s) ready for deployment, as well as any cameras or other peripheral equipment.\nBe prepared to go out on deck by donning required personal protective equipment (PPE).\n\nHelp with Marine Mammal watches, when possible\n\nMammal watches before towing operations (and in some cases during) are required. If it isn’t interfering with catch processing, the wet lab staff and volunteers will need to help cover the watch so the fisher can focus on their duties. More often than not, the wet lab lead(s) will not be available for the start of the marine mammal watch due to the preparation of peripheral devices.\n\nRetrieve sensors, cameras, etc. from the net\n\nThe survey tech will take care of retrieving the sensors maintained by the ship. Check with the lab lead(s) or chief scientist what the current protocol is for retrieving FEAT maintained equipment. If you are allowed on deck, you must go out with required PPE (hardhat, PFD - personal flotation device).\n\nMaintain data from peripheral equipment\n\nData should be downloaded from the equipment and stored in the appropriate place as soon as possible to ensure that the equipment is in working order before sending it out again.\n\nKeep lab clean between tows\n\nMost of the time, there is another shift, another group, or another science center sharing the wet lab. A good rinse to knock down any fish goo, livers, blood, and other nasties is required after every tow. It’s easier to clean it when it’s fresh instead of waiting until it cakes on. Always clean the lab like it is the last tow of the day to ensure the other shift/group has a clean working environment.\n\nDeep clean lab after every leg\n\nAfter the last tow for the leg, a deep clean needs to be done to clean nooks and crannies to free any smelly debris. Simple green is provided (and the ship should have some as well) as well as scrub brushes and sponges in the cleaning bucket. More information on required areas to clean later in the document.\n\nDeep, deep clean after cruise – See the cleaning sheet for details.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
-    "title": "Responsibilities and Expectations",
-    "section": "Keeping Busy Outside of Sampling Duties",
-    "text": "Keeping Busy Outside of Sampling Duties\nThe lab lead(s) may assign other sampling duties outside the wet lab as well as other duties for the current cruise. If you would like something to do, talk with either the lead(s) or the Chief Scientist.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/clamshowto/index.html",
-    "href": "nwfsc-specifics/clamshowto/index.html",
-    "title": "NWFSC CLAMS basics",
-    "section": "",
-    "text": "Hake Specific CLAMS Guide\nCreated by Alicia Billings alicia.billings@noaa.gov May 2025",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/index.html",
-    "href": "nwfsc-specifics/index.html",
-    "title": "IWCPS Protocols",
-    "section": "",
-    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
-    "crumbs": [
-      "NWFSC Specifics"
-    ]
-  },
-  {
-    "objectID": "swfsc-specifics/index.html",
-    "href": "swfsc-specifics/index.html",
-    "title": "IWCPS Protocols",
-    "section": "",
-    "text": "Welcome to the SWFSC specific IWCPS protocols section",
-    "crumbs": [
-      "SWFSC Specifics"
-    ]
-  },
-  {
-    "objectID": "backdeck/index.html",
-    "href": "backdeck/index.html",
-    "title": "Back deck basics",
-    "section": "",
-    "text": "This section will go over: * Preparing CLAMS * Setting up the backdeck computers * Stuff and things",
-    "crumbs": [
-      "Back deck basics"
-    ]
-  },
-  {
-    "objectID": "backdeck/clamssetup.html",
-    "href": "backdeck/clamssetup.html",
-    "title": "CLAMS setup",
-    "section": "",
-    "text": "Setting up the database computer * download and install postgres (latest version as of 5/8/26 - 18.3) * NWFSC superuser password - pinghake * Leave port at 5432 * install database instance * Use DBeaver * Choose new Postgres connection * if this is the first time, you’ll be prompted to download the driver files * Be sure to check Show all databases * use common NWFSC password for clams2nwfsc database * New connection settings * if this is the first time you’ve used DBeaver, use the default postgres database first and then follow these instructions * Right click databases under postgres connection and select Create new database * name the database clams2nwfsc * Right click schemas under the clams2nwfsc database and create new schema * name the schema clams2nwfsc * Tools -&gt; restore * Connect to the same network that holds the CLAMShells * Set the IP address to a static address * Update the",
-    "crumbs": [
-      "Back deck basics",
-      "CLAMS setup"
-    ]
-  },
-  {
-    "objectID": "backdeck/settingup.html",
-    "href": "backdeck/settingup.html",
-    "title": "Setting up back deck computers",
-    "section": "",
-    "text": "The back deck blah blah blah\nStations: * Computer box * Monitor * Cables * Length board * Scale * Scanner * Printer",
-    "crumbs": [
-      "Back deck basics",
-      "Setting up back deck computers"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IWCPS details and protocols",
-    "section": "",
-    "text": "Welcome to the IWCPS!",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/processingtow.html",
-    "href": "nwfsc-specifics/fieldguide/processingtow.html",
-    "title": "Preparing and Processing a Tow",
-    "section": "",
-    "text": "NoteAdditional Resources\n\n\n\nA single-sheet checklist for the current cruise of the duties required to prepare for and process a tow is in the lab materials available in the wet lab.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Preparing and Processing a Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html",
-    "href": "nwfsc-specifics/fieldguide/shipsafety.html",
-    "title": "Ship Safety",
-    "section": "",
-    "text": "When you’re in port (before, in between, or after a leg of the cruise) it is important to familiarize yourself with potential tsunami evacuation routes depending on where you are.\nBefore you go on a planned outing, familiarize yourself with where you will be on the map and the best route for evacuation.\nPotential threats from a tsunami can vary drastically, so a little planning can go a long way to ensure the safety of oneself, and those around you.\nMaps are provided below for common ports. Make note of the docking location for the ship.\nLinks are also provided for an online version of each port’s tsunami evacuation map.\n\n\nNewport, OR Tsunami EvacuationSan Francisco, CA Tsunami EvacuationSeattle, WA Tsunami Evacuation\n\n\n\nThe map below is separated into Newport-North and Newport-South, with the Newport-North map for when you are north of the Yaquina Bay Bridge, and Newport-South for when you are south of the bridge.\nThe ORANGE regions on the map represent the area that must be evacuated if there is a distant tsunami, in which the earthquake occurs far from the Oregon Coast.\nThe YELLOW regions on the map represent the area that must be evacuated if there is a local Cascadia earthquake and tsunami that occurs on the Oregon Coast.\nThe GREEN regions on the map represent the area that is outside the hazard area. Evacuate to the green if you there is a tsunami warning, if you feel an earthquake, OR if you are unsure about the risk for any reason.\nRemain in the evacuation zone until you are notified by authorities that it is safe to leave\nThis link will take you to the same maps seen below. It will allow you to zoom in to identify where you are and evacuation areas around you.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe map below does not provide as much detail as the Newport, OR map.\nThe link below will take you to the same map that is interactive. This allows you to identify your location and evacuation areas around you in greater detail than the map.\nWherever you might be in San Francisco, you will be less than 10 blocks from a safe area should a Tsunami occur.\nThe YELLOW on the map represents a tsunami hazard area and should be evacuated if you feel an earthquake, if you are given a tsunami warning, OR if you are unsure of the situation.\nThe GREEN on the map represents safe evacuation locations.\nAs San Francisco is a large city, if a localized earthquake/tsunami event were to occur, you should be aware of the dangers associated with evacuating to an area that has large buildings and other vulnerable structures.\nRefer to this link for a much more detailed, interactive map to plan your safe evacuation route.\n\n\n\n\n\nDue to the terrain in and around Seattle, you are not far from safety should an earthquake/tsunami occur.\nThe map on the next page provides a different look at the tsunami hazard zones in Seattle. This map was created to show the potential levels of inundation from a tsunami associated with an earthquake along the Seattle Fault. As you can see, areas that have an inlet or cove represent the highest threat of inundation from a tsunami.\nThe GREEN on the map represents areas where inundation from a tsunami could be 0-0.5 meters. The YELLOW on the map represents areas where inundation from a tsunami could be 0.5-2.0 meters. The ORANGE on the map represents areas where inundation from a tsunami could be 2.0-5.0 meters.\nWhile this map doesn’t actually show you where to go if a tsunami were to occur, it is an important reference depicting areas to avoid should an event occur. Should an earthquake, tsunami warning, or uncertainty involving an earthquake/tsunami occur, your first priority is to head for higher ground.\nFollow this link to find out more information about a potential earthquake/tsunami in Seattle.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Ship Safety"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#tsunamis-what-to-do-in-port",
-    "href": "nwfsc-specifics/fieldguide/shipsafety.html#tsunamis-what-to-do-in-port",
-    "title": "Ship Safety",
-    "section": "",
-    "text": "When you’re in port (before, in between, or after a leg of the cruise) it is important to familiarize yourself with potential tsunami evacuation routes depending on where you are.\nBefore you go on a planned outing, familiarize yourself with where you will be on the map and the best route for evacuation.\nPotential threats from a tsunami can vary drastically, so a little planning can go a long way to ensure the safety of oneself, and those around you.\nMaps are provided below for common ports. Make note of the docking location for the ship.\nLinks are also provided for an online version of each port’s tsunami evacuation map.\n\n\nNewport, OR Tsunami EvacuationSan Francisco, CA Tsunami EvacuationSeattle, WA Tsunami Evacuation\n\n\n\nThe map below is separated into Newport-North and Newport-South, with the Newport-North map for when you are north of the Yaquina Bay Bridge, and Newport-South for when you are south of the bridge.\nThe ORANGE regions on the map represent the area that must be evacuated if there is a distant tsunami, in which the earthquake occurs far from the Oregon Coast.\nThe YELLOW regions on the map represent the area that must be evacuated if there is a local Cascadia earthquake and tsunami that occurs on the Oregon Coast.\nThe GREEN regions on the map represent the area that is outside the hazard area. Evacuate to the green if you there is a tsunami warning, if you feel an earthquake, OR if you are unsure about the risk for any reason.\nRemain in the evacuation zone until you are notified by authorities that it is safe to leave\nThis link will take you to the same maps seen below. It will allow you to zoom in to identify where you are and evacuation areas around you.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe map below does not provide as much detail as the Newport, OR map.\nThe link below will take you to the same map that is interactive. This allows you to identify your location and evacuation areas around you in greater detail than the map.\nWherever you might be in San Francisco, you will be less than 10 blocks from a safe area should a Tsunami occur.\nThe YELLOW on the map represents a tsunami hazard area and should be evacuated if you feel an earthquake, if you are given a tsunami warning, OR if you are unsure of the situation.\nThe GREEN on the map represents safe evacuation locations.\nAs San Francisco is a large city, if a localized earthquake/tsunami event were to occur, you should be aware of the dangers associated with evacuating to an area that has large buildings and other vulnerable structures.\nRefer to this link for a much more detailed, interactive map to plan your safe evacuation route.\n\n\n\n\n\nDue to the terrain in and around Seattle, you are not far from safety should an earthquake/tsunami occur.\nThe map on the next page provides a different look at the tsunami hazard zones in Seattle. This map was created to show the potential levels of inundation from a tsunami associated with an earthquake along the Seattle Fault. As you can see, areas that have an inlet or cove represent the highest threat of inundation from a tsunami.\nThe GREEN on the map represents areas where inundation from a tsunami could be 0-0.5 meters. The YELLOW on the map represents areas where inundation from a tsunami could be 0.5-2.0 meters. The ORANGE on the map represents areas where inundation from a tsunami could be 2.0-5.0 meters.\nWhile this map doesn’t actually show you where to go if a tsunami were to occur, it is an important reference depicting areas to avoid should an event occur. Should an earthquake, tsunami warning, or uncertainty involving an earthquake/tsunami occur, your first priority is to head for higher ground.\nFollow this link to find out more information about a potential earthquake/tsunami in Seattle.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Ship Safety"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#chemicals",
-    "href": "nwfsc-specifics/fieldguide/shipsafety.html#chemicals",
-    "title": "Ship Safety",
-    "section": "Chemicals",
-    "text": "Chemicals\nRead the SDS for the chemicals (available in the Chem Lab, with the Chief Scientist in the Safety Binder, and in the Spill Kit) and make sure you know where they are in case you need to use them!\n\nGeneral Information\nTypical chemicals brought on board are 37% formaldehyde and 95% ethanol. They need to be diluted. Follow the instructions below.\nSpill kits are available in the Chem Lab as well as a NWFSC-provided kit in the Wet Lab. Eyewash stations are also available in the Chem Lab and Wet Lab.\n\nFormalinEthanolSpills and Splashes\n\n\nDiluting\n\nMost of the time, the formalin has to be diluted from containers of 37% concentration formaldehyde (100% formalin) to 10% formalin (~4% formaldehyde). To mix, use 9 parts seawater to 1 part formaldehyde. Seawater is used because the salt acts as a buffer.\nWear full raingear, eye protection, and gloves to mix.\nWhile pouring the seawater and formalin into the container, do so slowly to minimize any splashing, and be sure to keep your face away.\nMix out on deck if possible. The side station and trawl deck both have access to a saltwater spigot, although the trawl deck may be a better option if there is any rolling motion.\n\nLabeling\nAfter mixing, use the appropriate sticky labels from the chemical label folder on the outside of the container, and add the current date.\nHandling Formalin\n\nAlways wear full raingear, eye protection, and gloves.\nOpen the container slowly and carefully, keeping your nose and face as far away as safely possible\nDo not throw the samples in! Instead, slowly drop them and use the tongs to submerge carefully. Push samples down to ensure they are covered in formalin.\n\n\n\nDiluting\nEthanol comes on board in 95% concentration. One squirt bottle of ~50% will always be used for otoliths, so you will need to reduce the 95% to ~50%. It doesn’t have to be exactly 50%, and it’s better to dilute to a little less than 50% rather than more.\nTo dilute to 50%, fill the bottle halfway with the 95% concentration and fill up to the fill line with fresh water.\nLabeling\nAfter putting the ethanol into the squirt bottles, use the appropriate sticky labels from the chemical label folder on the outside of the container.\nHandling Ethanol\nWear gloves when using the squirt bottles and make sure to secure the bottle between uses and for transit to minimize the possibility of spillage.\n\n\nAny spill needs to be appropriately addressed as outlined in the SDS for the chemical spilled. There is a NWFSC provided spill kit with formalin absorber and diapers, as well as eye protection and bags to contain the spill and clean up materials. There is also a ship’s spill kit in the Chem Lab. If you haven’t completed the NWFSC Formalin Training, please ask Alicia Billings (Alicia.Billings@noaa.gov) to get you set up.\nFormalin\n\nDon personal protective equipment (PPE) such as raingear, eye protection, and gloves\nRemove all sources of ignition\nSoak up with inert absorbent material\nPlace in a properly labeled (with Hazardous Waste sticker), closed container for disposal.\n\nEthanol\n\nDon personal protective equipment (PPE) such as raingear, eye protection, and gloves\nVentilate the area\nUse inert absorbent or diapers\nPlace in a properly labeled (with Hazardous Waste sticker), closed container for disposal.\n\nIf you are splashed, there are eyewash stations and showers in both the Wet Lab and the Chem Lab.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Ship Safety"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#wet-lab-safety-and-pinch-points",
-    "href": "nwfsc-specifics/fieldguide/shipsafety.html#wet-lab-safety-and-pinch-points",
-    "title": "Ship Safety",
-    "section": "Wet Lab Safety and Pinch Points",
-    "text": "Wet Lab Safety and Pinch Points\n(maybe make this into an accordian or tabs?)\n\nSamplingSlippingTrippingPinchingCleaning\n\n\nKnives, scalpels, tweezers, scissors, and heavy baskets are potential safety issues in the lab. Cut away from your body and be careful of your fingers and palms. Always lift with the legs and avoid twisting.\nTips:\n\nDiscard dull and rusty scalpel blades and knives quickly and into the Sharps Container. Sharp blades mean less pressure to cut and therefore less risk of slipping and cutting fingers.\nUse scissors that fit your fingers. Smaller holes than are comfortable can be dangerous if they become hard to get back off.\nBe careful when you walk with any tool in your hand so you don’t hit someone.\nThe way that the salt and fresh water spray hoses are stored can be dangerous. When putting up and pulling down the hoses, watch where they are and be aware of boat movement or you can hurt yourself or your lab mates.\nUse long-handled fish picks whenever possible to move full baskets across the deck. This will save your back from lifting and twisting in tight spaces.\n\n\n\nThis is a very wet lab, hence the name. There are not a lot of mats, if any, because they can be hard to clean and can become slippery over time with those hard-to-clean fish guts. Wearing boots with traction will help minimize the risk of slipping, but be aware of where you put your feet to avoid the obvious slipping hazards (i.e. fish guts, livers, eyeballs, other goo).\nThe lab can still be slippery well after a tow has been completed. So if you go in without your boots, be aware the deck can still be wet and tread carefully\n\n\nThe lab can get a little cramped while sampling. While the floors are fairly free of tripping hazards, the cramped conditions coupled with the rolling of the boat can create hazards. Keep one hand available to grab onto something at all times. Ask for help when carrying bulky items and always be aware of where you are stepping.\n\n\nUse caution around the conveyor belt pinch-points, as well as the area where the hopper meets the conveyor. Keep fingers out of the way and have someone always available to reach the emergency stop in case of an emergency (the red line overhead that runs parallel activates the emergency stop). Periodically check the emergency stop before a tow to make sure it is functional. If it isn’t, talk with the Chief Scientist or Field Party Chief and the Survey Tech to get it fixed before any more fish come into the lab.\nAnother pinching concern is that of the neck. Switch jobs to keep from getting repetitive use injuries.\n\n\nUsing hoses and soap can create slipping and tripping hazards. Also, some of the cleaners can be harsh to the skin and eyes. Always wear gloves and raingear while cleaning up the lab and be aware of where you put your feet. Eye protection is available as well.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Ship Safety"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#working-on-deck",
-    "href": "nwfsc-specifics/fieldguide/shipsafety.html#working-on-deck",
-    "title": "Ship Safety",
-    "section": "Working on Deck",
-    "text": "Working on Deck\n(maybe make this into an accordian or tabs?)\n\nRequirements\nDuring operations, a personal flotation device (PFD) is required. For any operations where things are moving around above your head, such as trawls, CTDs, and vertical nets, a hard hat is also required. You will be assigned a personal locator beacon (PLB) in a pouch. While not required, it is a good idea to keep that with you, especially on deck. These are invaluable if you ever do find yourself in a situation where you end up in the water.\n\nSlippingTrippingCraning Operations\n\n\nThe deck is steel with some texture, but it can still be slippery, even without organisms that have fallen from the net. As in the Wet Lab, wearing boots will help, but always watch your feet and be aware.\n\n\nThere are several tripping hazards on the deck. Many are painted a yellow color, and the deck crew will draw attention to temporary hazards with cones, but don’t rely on that. Watch your feet and where you are going to step.\n\n\nWhen fish are brought aboard, the deck crew will be operating the crane to empty the net into the hopper. DO NOT walk out onto the deck unless you are given explicit permission to do so while the crane is operational. If you feel that it is safe to walk out on deck but haven’t been given permission, ask a crew member. Most of the time, a science team member only needs to go out on deck to turn on the power to the hopper to raise and lower it.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Ship Safety"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/shipsafety.html#problem-fish-and-saltwater",
-    "href": "nwfsc-specifics/fieldguide/shipsafety.html#problem-fish-and-saltwater",
-    "title": "Ship Safety",
-    "section": "Problem Fish and Saltwater",
-    "text": "Problem Fish and Saltwater\n\nRockfishRatfishPacific Electric RaysSaltwater\n\n\nRockfish are spiny. They need to be treated with care when handling. Don’t grab them without a thought or you risk being poked and even breaking a spine off in your skin. The majority of rockfish will be alive, but appear dead, especially at the start of sampling.\n(insert rf photo)\n\n\nAs with rockfish, ratfish have a spine that precedes the dorsal fin. This spine is big and venomous, so take care when handling.\n(insert ratfish photo)\n\n\nSince the tows are relatively short, the catch can sometimes come up alive or very freshly dead. These can still have a bit of a sting, so handle with care.\n(photo)\n\n\nSome people are sensitive to saltwater. Change your gloves at least every week, more so if you find your skin peeling and becoming raw. Make sure to thoroughly wash your hands after you leave the lab and use hand lotion.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Ship Safety"
     ]
   }
 ]
