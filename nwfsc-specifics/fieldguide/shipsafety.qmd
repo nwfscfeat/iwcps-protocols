@@ -21,9 +21,9 @@ title: Ship Safety
 
 ::: {layout-ncol=2}
 
-![](photos/NWPT_TsunamiEvac_North.png){width="60%"}
+![](../photos/fieldguide_pics/NWPT_TsunamiEvac_North.png){width="60%"}
 
-![](photos/NWPT_TsunamiEvac_South.png){width="60%"}
+![](../photos/fieldguide_pics/NWPT_TsunamiEvac_South.png){width="60%"}
 
 :::
 
@@ -36,7 +36,7 @@ title: Ship Safety
 * As San Francisco is a large city, if a localized earthquake/tsunami event were to occur, you should be aware of the dangers associated with evacuating to an area that has large buildings and other vulnerable structures. 
 * Refer to this [link](https://maps.conservation.ca.gov/cgs/informationwarehouse/ts_evacuation/?extent=-13638549.0627%2C4536570.1047%2C-13622115.1016%2C4554762.1174%2C102100&utm_source=cgs+active&utm_content=sanfrancisco) for a much more detailed, interactive map to plan your safe evacuation route.
 
-![](photos/SanFranTsunamiMap.png)
+![](../photos/fieldguide_pics/SanFranTsunamiMap.png)
 
 ### Seattle, WA
 * Due to the terrain in and around Seattle, you are not far from safety should an earthquake/tsunami occur. 
@@ -45,7 +45,7 @@ title: Ship Safety
 * While this map doesn’t actually show you where to go if a tsunami were to occur, it is an important reference depicting areas to avoid should an event occur. Should an earthquake, tsunami warning, or uncertainty involving an earthquake/tsunami occur, your first priority is to head for higher ground. 
 * Follow this [link](https://www.pmel.noaa.gov/pubs/PDF/wals2794/wals2794.pdf) to find out more information about a potential earthquake/tsunami in Seattle.
 
-![](photos/SeattleTsunamiMap.png)
+![](../photos/fieldguide_pics/SeattleTsunamiMap.png)
 :::
 
 
@@ -176,17 +176,17 @@ When fish are brought aboard, the deck crew will be operating the crane to empty
 ### Rockfish
 Rockfish are spiny. They need to be treated with care when handling. Don’t grab them without a thought or you risk being poked and even breaking a spine off in your skin. The majority of rockfish will be alive, but appear dead, especially at the start of sampling.
 
-![](photos/RockFish.png)
+![](../photos/fieldguide_pics/RockFish.png)
 
 ### Ratfish
 As with rockfish, ratfish have a spine that precedes the dorsal fin. This spine is big and venomous, so take care when handling.
 
-![](photos/RatFish.png)
+![](../photos/fieldguide_pics/RatFish.png)
 
 ### Pacific Electric Rays
 Since the tows are relatively short, the catch can sometimes come up alive or very freshly dead. These can still have a bit of a sting, so handle with care.
 
-![](photos/PacificElectricRay.png)
+![](../photos/fieldguide_pics/PacificElectricRay.png)
 
 ### Saltwater
 Some people are sensitive to saltwater. Change your gloves at least every week, more so if you find your skin peeling and becoming raw. Make sure to thoroughly wash your hands after you leave the lab and use hand lotion.

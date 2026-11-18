@@ -6,3 +6,5 @@ title: NWFSC CLAMS basics
 Hake Specific CLAMS Guide
 
 Created by Alicia Billings <alicia.billings@noaa.gov> May 2025
+
+![](../photos/CLAMS/clamshome.png)

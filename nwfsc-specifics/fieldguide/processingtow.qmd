@@ -55,9 +55,9 @@ The crane that is used to pick up the codend may not be able to lift it to do mu
 ::: {.list-table header-rows=0 tbl-colwidths="[50,50]" .table-striped}
 
 - - For a codend shaped like a cylinder, you need to get the diameter across (d), the height (h), and the length of the codend (l).
-  - ![](photos/CylinderCodend.png){style="display: block; margin: 0 auto; width: 60%;"}
+  - ![](../photos/fieldguide_pics/CylinderCodend.png){style="display: block; margin: 0 auto; width: 60%;"}
 
-- - ![](photos/FrustumCodend.png){style="display: block; margin: 0 auto; width: 60%;"}
+- - ![](../photos/fieldguide_pics/FrustumCodend.png){style="display: block; margin: 0 auto; width: 60%;"}
   - For a codend shaped like a frustum, you need to get the diameters for the larger end (d1 and d2) and the smaller end (d3 and d4), as well as the length (l).
 
 - - Determine the Density:
@@ -67,7 +67,7 @@ The crane that is used to pick up the codend may not be able to lift it to do mu
     - Divide that weight by the volume of the basket using the following formula and enter the final number into the density box.
     
     | Density = Wt of basket (kg)/ 0.029638(m^3^)
-  - ![](photos/Greenbasket.png){style="display: block; margin: 0 auto; width: 100%;"}
+  - ![](../photos/fieldguide_pics/Greenbasket.png){style="display: block; margin: 0 auto; width: 100%;"}
 ::: 
 
 :::
