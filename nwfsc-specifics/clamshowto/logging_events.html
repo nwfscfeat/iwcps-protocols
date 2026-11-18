@@ -245,6 +245,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#getting-started" id="toc-getting-started" class="nav-link active" data-scroll-target="#getting-started">Getting Started <span class="emoji" data-emoji="dizzy">💫</span></a></li>
   <li><a href="#starting-a-new-event" id="toc-starting-a-new-event" class="nav-link" data-scroll-target="#starting-a-new-event">Starting a New Event <span class="emoji" data-emoji="heavy_plus_sign">➕</span></a></li>
   <li><a href="#entering-metadata" id="toc-entering-metadata" class="nav-link" data-scroll-target="#entering-metadata">Entering Metadata <span class="emoji" data-emoji="outbox_tray">📤</span></a></li>
+  <li><a href="#entering-trawl-events" id="toc-entering-trawl-events" class="nav-link" data-scroll-target="#entering-trawl-events">Entering Trawl Events <span class="emoji" data-emoji="pencil2">✏️</span></a></li>
+  <li><a href="#finishing-a-tow" id="toc-finishing-a-tow" class="nav-link" data-scroll-target="#finishing-a-tow">Finishing a Tow <span class="emoji" data-emoji="heavy_check_mark">✔️</span></a></li>
   </ul>
 </nav>
     </div>
@@ -396,6 +398,56 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<section id="save-and-close" class="level4">
+<h4 class="anchored" data-anchor-id="save-and-close">Save and Close</h4>
+<p>Once the required metadata is entered and saved using the Save and Close button, the event is created in the database using the event number in the upper left corner. The NIW button is now enabled and you can start entering any overall comments for the tow. You can also add any preliminary COMs, although this will pop up the net mensuration dialog (more on this later). Also, if you enter a COM before NIW is pressed, the SCS data will not be recorded for that button press.</p>
+</section>
+</section>
+<section id="entering-trawl-events" class="level2">
+<h2 class="anchored" data-anchor-id="entering-trawl-events">Entering Trawl Events <span class="emoji" data-emoji="pencil2">✏️</span></h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Definitions</strong></p>
+<p>NIW: Net In Water (net has touched the water)</p>
+<p>SD: Shoot Doors (doors are released)</p>
+<p>TD: Target Depth</p>
+<p>HB: Haul Back</p>
+<p>COM: Comment/Notes</p>
+<p>DU: Doors Up (doors secured to the trawl frame)</p>
+<p>NOD: Net on Deck (net is completely on deck)</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>To start a tow, and to start recording the incoming SCS stream, NIW must be clicked. Once clicked, the tow can be aborted and a timer starts in the lower left corner to keep track of the time since the net went into the water.</p>
+<p>Notes:</p>
+<ul>
+<li>Prior to NIW and after metadata has been entered, the event form can be closed and opened again for another event, but the fisher should check and update the metadata if things change.</li>
+<li>Even though the values for latitude, longitude, and bottom depth do not show up in the form for NIW, it is being recorded as long as SCS is connected.</li>
+<li>When you click TD, a timer will start in the upper right corner that will show the time since TD was pressed. When you click HB, that timer will stop.</li>
+<li>Once HB is clicked, you can no longer abort the tow. THIS IS DIFFERENT! If a tow is to be aborted, you must use the ABORT TOW button BEFORE you hit HB.</li>
+<li>When you enter a COM, it will put a number after it. This is because the database currently needs to have unique names for each trawl for the event data. Right now, you can enter 15 COMs only, so use them wisely.</li>
+</ul></td>
+<td style="text-align: center;"><p><img src="../photos/CLAMS/abort_tow_visible.png" class="img-fluid" style="width: 90%;"></p>
+<p>Once NIW is pressed (as in the image above), the ABORT TOW button is now active, and the SD button can be pressed. <strong><em>The buttons must be pressed in order!</em></strong> However, if you accidentally press a button before it’s time, you are able to press it again to update the time for that button press. BUT, there is no logic that will KEEP the buttons in order if you overwrite, so please be careful with this.</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Net Mensuration Dialog</strong></p>
+<p>When you press TD, HB, or COM, a net mensuration dialog will appear to enter values, although none of them are required in the software. While an entry is not required, it is best practice to include at least measures for TD and HB.</p>
+<p>Again, when you press the button next to each field name, a popup will appear to enter the values. You can also use the keyboard.</p>
+<p>When the record is complete, <strong>you MUST click ‘Add Record’ to complete the entry in the database.</strong></p>
+<p>If you make a mistake or want to see the entered values, click on the record in the main trawl form and the dialog will pop up again.</p></td>
+<td style="text-align: center;"><p><img src="../photos/CLAMS/net_men_dlg.png" class="img-fluid" style="width: 70%;"></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="finishing-a-tow" class="level2">
+<h2 class="anchored" data-anchor-id="finishing-a-tow">Finishing a Tow <span class="emoji" data-emoji="heavy_check_mark">✔️</span></h2>
 
 
 </section>
