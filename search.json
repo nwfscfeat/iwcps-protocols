@@ -126,6 +126,54 @@
     ]
   },
   {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html",
+    "title": "Logging Events",
+    "section": "",
+    "text": "Click ‘Log Event’ to start the process of taking data for the events during a tow\nChoose which type of event to log (“Trawl Event” is the only one for 2025)\n\n\n\nAnother dialog will pop up where you can see a past tow, continue on a tow that is not finished (like if the computer crashes or something), or start a new event.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#getting-started",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#getting-started",
+    "title": "Logging Events",
+    "section": "",
+    "text": "Click ‘Log Event’ to start the process of taking data for the events during a tow\nChoose which type of event to log (“Trawl Event” is the only one for 2025)\n\n\n\nAnother dialog will pop up where you can see a past tow, continue on a tow that is not finished (like if the computer crashes or something), or start a new event.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-new-event",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-new-event",
+    "title": "Logging Events",
+    "section": "Starting a New Event ➕",
+    "text": "Starting a New Event ➕\n\n\n\n\n\n\n\nClick ‘Start New Event’ to proceed to the trawl form. Nothing is enabled at this point until required metadata is entered. If you close out of this before entering any metadata, the event will not be created in the database.\n\n\n\nThings to look for:\n\nEvent number is correct in the upper left corner\nSCS is connected and message is in lower left corner",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#entering-metadata",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#entering-metadata",
+    "title": "Logging Events",
+    "section": "Entering Metadata 📤",
+    "text": "Entering Metadata 📤\n\n\n\n\n\n\n\nClick the ‘Enter Event Metadata’ button at the top.\nNOTES:\nA pop-up will appear to remind you to turn off the EAL and reset the recording depth You can return to this screen at any time to enter new data or modify existing data. ONLY THE REQUIRED FIELDS ARE NECESSARY TO START A TRAWL\nAny measure on ANY tab that has an asterisk (*) next to it is a required field to enter before any of the event buttons are enabled.\nWhen you click on a field, the appropriate entry method will pop up. For example, when pressing ‘Transect #’, a number pad will appear.\n\n\n\n\n\nOverall TabGear TabAttached TabWeather Tab\n\n\n\n\n\n\n\n\n\nFor 2025, the required fields on this tab are the transect number and the fisher.\nTarget Depth is the depth that you are targeting in the school, and the target latitude and longitude are where in the school you would like to be at that target depth.\nThe Uphill checkbox is used if the tow is going ‘uphill’. This way we can flag if we need to use some other means to calculate the average bottom depth, since the depth is from the ship instead of the net. One such method would be to use the depths entered into the trawl mensuration form when using the depth under the net on the FS70.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe only required field on this tab is the Gear. For 2025 we will use MFT for tow where the pockets remain open and MFT-pockets for a tow where the pockets are closed.\nThe Tom weights is a field to designate how much weight was used on one side. The net number is a designation for which net is being used.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe dropdowns in the tab are for the peripheral devices like the TDRs and camera. Unless there is something wrong with one of the TDRs, the convention is for the headrope to have the red, the footrope to have the blue, and the camera to have the white.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis tab is for data about the weather. If you don’t know where this information can be found, ask an officer in the wheelhouse and they will point you to where this is displayed.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
     "objectID": "backdeck/clamssetup.html",
     "href": "backdeck/clamssetup.html",
     "title": "CLAMS setup",
