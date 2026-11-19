@@ -159,3 +159,8 @@ Once the required metadata is entered and saved using the Save and Close button,
 :::
 
 ## Finishing a Tow :heavy_check_mark:
+
+::: {.list-table header-rows=0 aligns="l,c" tbl-colwidths="[50,50]" .table-striped}
+
+
+:::
