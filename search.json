@@ -1,22 +1,50 @@
 [
   {
-    "objectID": "swfsc-specifics/index.html",
-    "href": "swfsc-specifics/index.html",
-    "title": "IWCPS Protocols",
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html",
+    "title": "Post Tow",
     "section": "",
-    "text": "Welcome to the SWFSC specific IWCPS protocols section",
+    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
     "crumbs": [
-      "SWFSC Specifics"
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
     ]
   },
   {
-    "objectID": "nwfsc-specifics/index.html",
-    "href": "nwfsc-specifics/index.html",
-    "title": "IWCPS Protocols",
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
+    "title": "Post Tow",
     "section": "",
-    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
+    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
     "crumbs": [
-      "NWFSC Specifics"
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
+    "title": "Post Tow",
+    "section": "Replace Depleted Items 🔃",
+    "text": "Replace Depleted Items 🔃\nThe white caddy is used to hold all of the tools needed to sample a tow. Replenish the supplies with the following:\n\n50% ethanol bottle (labeled) – See Ship Safety section for mixing precautions and instructions\nCloth sample bags\nSample labels\nScalpel blade handles (at least 5) with fresh blades close to trawl time\nKnives (at least 5)\nScissors (various sizes)\nTweezers (various sizes)\nOtolith caps\nContainers to clean off otoliths (tape holder, sponge, or both)\nContainer to rinse scissors and tweezers for fin clips",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
+    "title": "Post Tow",
+    "section": "Download and Store Peripheral Devices 💾",
+    "text": "Download and Store Peripheral Devices 💾\nSee the specific one-sheeters for the current protocol and instructions on downloading and storing peripheral devices.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
     ]
   },
   {
@@ -198,14 +226,23 @@
     ]
   },
   {
-    "objectID": "backdeck/clamssetup.html",
-    "href": "backdeck/clamssetup.html",
-    "title": "CLAMS setup",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IWCPS details and protocols",
     "section": "",
-    "text": "Setting up the database computer * download and install postgres (latest version as of 5/8/26 - 18.3) * NWFSC superuser password - pinghake * Leave port at 5432 * install database instance * Use DBeaver * Choose new Postgres connection * if this is the first time, you’ll be prompted to download the driver files * Be sure to check Show all databases * use common NWFSC password for clams2nwfsc database * New connection settings * if this is the first time you’ve used DBeaver, use the default postgres database first and then follow these instructions * Right click databases under postgres connection and select Create new database * name the database clams2nwfsc * Right click schemas under the clams2nwfsc database and create new schema * name the schema clams2nwfsc * Tools -&gt; restore * Connect to the same network that holds the CLAMShells * Set the IP address to a static address * Update the",
+    "text": "Welcome to the IWCPS!",
     "crumbs": [
-      "Back deck basics",
-      "CLAMS setup"
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "backdeck/index.html",
+    "href": "backdeck/index.html",
+    "title": "Back deck basics",
+    "section": "",
+    "text": "This section will go over: * Preparing CLAMS * Setting up the backdeck computers * Stuff and things",
+    "crumbs": [
+      "Back deck basics"
     ]
   },
   {
@@ -220,23 +257,79 @@
     ]
   },
   {
-    "objectID": "backdeck/index.html",
-    "href": "backdeck/index.html",
-    "title": "Back deck basics",
+    "objectID": "backdeck/clamssetup.html",
+    "href": "backdeck/clamssetup.html",
+    "title": "CLAMS setup",
     "section": "",
-    "text": "This section will go over: * Preparing CLAMS * Setting up the backdeck computers * Stuff and things",
+    "text": "Setting up the database computer * download and install postgres (latest version as of 5/8/26 - 18.3) * NWFSC superuser password - pinghake * Leave port at 5432 * install database instance * Use DBeaver * Choose new Postgres connection * if this is the first time, you’ll be prompted to download the driver files * Be sure to check Show all databases * use common NWFSC password for clams2nwfsc database * New connection settings * if this is the first time you’ve used DBeaver, use the default postgres database first and then follow these instructions * Right click databases under postgres connection and select Create new database * name the database clams2nwfsc * Right click schemas under the clams2nwfsc database and create new schema * name the schema clams2nwfsc * Tools -&gt; restore * Connect to the same network that holds the CLAMShells * Set the IP address to a static address * Update the",
     "crumbs": [
-      "Back deck basics"
+      "Back deck basics",
+      "CLAMS setup"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IWCPS details and protocols",
+    "objectID": "swfsc-specifics/index.html",
+    "href": "swfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
     "section": "",
-    "text": "Welcome to the IWCPS!",
+    "text": "Welcome to the SWFSC specific IWCPS protocols section",
     "crumbs": [
-      "Welcome"
+      "SWFSC Specifics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "This will have introduction information about the page and the data management steps",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
+    "title": "Data Management",
+    "section": "Data flow diagram",
+    "text": "Data flow diagram",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
+    "title": "Data Management",
+    "section": "Before the survey",
+    "text": "Before the survey\n\nSteps\nGetting the CLAMS database ready\nDeploying CLAMS database",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
+    "title": "Data Management",
+    "section": "During the survey",
+    "text": "During the survey\n\nSteps\nData Collection\nBacking up and creating reports\nInitial QAQC of raw data\nUsing Docker for QAQC Using Docker is kind of having an apartment in an apartment building. The Docker image/template is built and users are able to use a container to work in. So the image is like the building and the container is like an apartment in the building. Users share the kernel (likened to plumbing in the example), but they have their own way to get in. The important thing to remember is that any changes made in a container are temporary.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
+    "title": "Data Management",
+    "section": "After the survey",
+    "text": "After the survey\n\nSteps\n\nAdditions to the data (ages, diets, etc)\nFinal QAQC\nArchive staging to sqlite file and store\nCopy staging to production\nClear out staging",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
     ]
   },
   {
@@ -248,6 +341,64 @@
     "crumbs": [
       "NWFSC Specifics",
       "CLAMS Basics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/index.html",
+    "href": "nwfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
+    "section": "",
+    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
+    "crumbs": [
+      "NWFSC Specifics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html",
+    "title": "Responsibilities and Expectations",
+    "section": "",
+    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
+    "title": "Responsibilities and Expectations",
+    "section": "",
+    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
+    "title": "Responsibilities and Expectations",
+    "section": "Duty Priorities 🚨",
+    "text": "Duty Priorities 🚨\n\nCollecting catch and sample data\n\nWhile there may be other duties to work on throughout the cruise, the first priority is collecting the catch and sample data. If other duties require attention while sorting and processing is still going on in the lab, work with the acousticians who can either take care of the project or they can take someone’s place in the wet lab.\nNote that during towing operations, NO DUMPING is allowed to minimize the possibility of recapture. As soon as the net is in the water, all dumping must cease. This is also the case for any stationary CTD stations, zooplankton net tows, Methot net tows, etc.\n\nPrepare sensors, cameras, etc. to deploy on the net (also called ‘peripheral devices’ in this document)\n\nIt doesn’t take long to get sensors and other peripheral equipment ready to put onto the net. The survey tech will take care of the equipment maintained by the ship (such as the FS70), but the wet lab staff and volunteers should take care of getting the temperature and depth unit(s) ready for deployment, as well as any cameras or other peripheral equipment.\nBe prepared to go out on deck by donning required personal protective equipment (PPE).\n\nHelp with Marine Mammal watches, when possible\n\nMammal watches before towing operations (and in some cases during) are required. If it isn’t interfering with catch processing, the wet lab staff and volunteers will need to help cover the watch so the fisher can focus on their duties. More often than not, the wet lab lead(s) will not be available for the start of the marine mammal watch due to the preparation of peripheral devices.\n\nRetrieve sensors, cameras, etc. from the net\n\nThe survey tech will take care of retrieving the sensors maintained by the ship. Check with the lab lead(s) or chief scientist what the current protocol is for retrieving FEAT maintained equipment. If you are allowed on deck, you must go out with required PPE (hardhat, PFD - personal flotation device).\n\nMaintain data from peripheral equipment\n\nData should be downloaded from the equipment and stored in the appropriate place as soon as possible to ensure that the equipment is in working order before sending it out again.\n\nKeep lab clean between tows\n\nMost of the time, there is another shift, another group, or another science center sharing the wet lab. A good rinse to knock down any fish goo, livers, blood, and other nasties is required after every tow. It’s easier to clean it when it’s fresh instead of waiting until it cakes on. Always clean the lab like it is the last tow of the day to ensure the other shift/group has a clean working environment.\n\nDeep clean lab after every leg\n\nAfter the last tow for the leg, a deep clean needs to be done to clean nooks and crannies to free any smelly debris. Simple green is provided (and the ship should have some as well) as well as scrub brushes and sponges in the cleaning bucket. More information on required areas to clean later in the document.\n\nDeep, deep clean after cruise – See the cleaning sheet for details.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
+    "title": "Responsibilities and Expectations",
+    "section": "Keeping Busy Outside of Sampling Duties ⚡",
+    "text": "Keeping Busy Outside of Sampling Duties ⚡\nThe lab lead(s) may assign other sampling duties outside the wet lab as well as other duties for the current cruise. If you would like something to do, talk with either the lead(s) or the Chief Scientist.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
     ]
   },
   {
@@ -320,157 +471,6 @@
       "NWFSC Specifics",
       "FEAT Field Guide",
       "Ship Safety"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html",
-    "title": "Responsibilities and Expectations",
-    "section": "",
-    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
-    "title": "Responsibilities and Expectations",
-    "section": "",
-    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
-    "title": "Responsibilities and Expectations",
-    "section": "Duty Priorities 🚨",
-    "text": "Duty Priorities 🚨\n\nCollecting catch and sample data\n\nWhile there may be other duties to work on throughout the cruise, the first priority is collecting the catch and sample data. If other duties require attention while sorting and processing is still going on in the lab, work with the acousticians who can either take care of the project or they can take someone’s place in the wet lab.\nNote that during towing operations, NO DUMPING is allowed to minimize the possibility of recapture. As soon as the net is in the water, all dumping must cease. This is also the case for any stationary CTD stations, zooplankton net tows, Methot net tows, etc.\n\nPrepare sensors, cameras, etc. to deploy on the net (also called ‘peripheral devices’ in this document)\n\nIt doesn’t take long to get sensors and other peripheral equipment ready to put onto the net. The survey tech will take care of the equipment maintained by the ship (such as the FS70), but the wet lab staff and volunteers should take care of getting the temperature and depth unit(s) ready for deployment, as well as any cameras or other peripheral equipment.\nBe prepared to go out on deck by donning required personal protective equipment (PPE).\n\nHelp with Marine Mammal watches, when possible\n\nMammal watches before towing operations (and in some cases during) are required. If it isn’t interfering with catch processing, the wet lab staff and volunteers will need to help cover the watch so the fisher can focus on their duties. More often than not, the wet lab lead(s) will not be available for the start of the marine mammal watch due to the preparation of peripheral devices.\n\nRetrieve sensors, cameras, etc. from the net\n\nThe survey tech will take care of retrieving the sensors maintained by the ship. Check with the lab lead(s) or chief scientist what the current protocol is for retrieving FEAT maintained equipment. If you are allowed on deck, you must go out with required PPE (hardhat, PFD - personal flotation device).\n\nMaintain data from peripheral equipment\n\nData should be downloaded from the equipment and stored in the appropriate place as soon as possible to ensure that the equipment is in working order before sending it out again.\n\nKeep lab clean between tows\n\nMost of the time, there is another shift, another group, or another science center sharing the wet lab. A good rinse to knock down any fish goo, livers, blood, and other nasties is required after every tow. It’s easier to clean it when it’s fresh instead of waiting until it cakes on. Always clean the lab like it is the last tow of the day to ensure the other shift/group has a clean working environment.\n\nDeep clean lab after every leg\n\nAfter the last tow for the leg, a deep clean needs to be done to clean nooks and crannies to free any smelly debris. Simple green is provided (and the ship should have some as well) as well as scrub brushes and sponges in the cleaning bucket. More information on required areas to clean later in the document.\n\nDeep, deep clean after cruise – See the cleaning sheet for details.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
-    "title": "Responsibilities and Expectations",
-    "section": "Keeping Busy Outside of Sampling Duties ⚡",
-    "text": "Keeping Busy Outside of Sampling Duties ⚡\nThe lab lead(s) may assign other sampling duties outside the wet lab as well as other duties for the current cruise. If you would like something to do, talk with either the lead(s) or the Chief Scientist.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html",
-    "title": "Post Tow",
-    "section": "",
-    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
-    "title": "Post Tow",
-    "section": "",
-    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
-    "title": "Post Tow",
-    "section": "Replace Depleted Items 🔃",
-    "text": "Replace Depleted Items 🔃\nThe white caddy is used to hold all of the tools needed to sample a tow. Replenish the supplies with the following:\n\n50% ethanol bottle (labeled) – See Ship Safety section for mixing precautions and instructions\nCloth sample bags\nSample labels\nScalpel blade handles (at least 5) with fresh blades close to trawl time\nKnives (at least 5)\nScissors (various sizes)\nTweezers (various sizes)\nOtolith caps\nContainers to clean off otoliths (tape holder, sponge, or both)\nContainer to rinse scissors and tweezers for fin clips",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
-    "title": "Post Tow",
-    "section": "Download and Store Peripheral Devices 💾",
-    "text": "Download and Store Peripheral Devices 💾\nSee the specific one-sheeters for the current protocol and instructions on downloading and storing peripheral devices.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "This will have introduction information about the page and the data management steps",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
-    "title": "Data Management",
-    "section": "Data flow diagram",
-    "text": "Data flow diagram",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
-    "title": "Data Management",
-    "section": "Before the survey",
-    "text": "Before the survey\n\nSteps\nGetting the CLAMS database ready\nDeploying CLAMS database",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
-    "title": "Data Management",
-    "section": "During the survey",
-    "text": "During the survey\n\nSteps\nData Collection\nBacking up and creating reports\nInitial QAQC of raw data\nUsing Docker for QAQC Using Docker is kind of having an apartment in an apartment building. The Docker image/template is built and users are able to use a container to work in. So the image is like the building and the container is like an apartment in the building. Users share the kernel (likened to plumbing in the example), but they have their own way to get in. The important thing to remember is that any changes made in a container are temporary.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
-    "title": "Data Management",
-    "section": "After the survey",
-    "text": "After the survey\n\nSteps\n\nAdditions to the data (ages, diets, etc)\nFinal QAQC\nArchive staging to sqlite file and store\nCopy staging to production\nClear out staging",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
     ]
   }
 ]
