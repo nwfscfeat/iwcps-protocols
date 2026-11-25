@@ -1,72 +1,12 @@
 [
   {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html",
-    "title": "Post Tow",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IWCPS details and protocols",
     "section": "",
-    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
+    "text": "Welcome to the IWCPS!",
     "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
-    "title": "Post Tow",
-    "section": "",
-    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
-    "title": "Post Tow",
-    "section": "Replace Depleted Items 🔃",
-    "text": "Replace Depleted Items 🔃\nThe white caddy is used to hold all of the tools needed to sample a tow. Replenish the supplies with the following:\n\n50% ethanol bottle (labeled) – See Ship Safety section for mixing precautions and instructions\nCloth sample bags\nSample labels\nScalpel blade handles (at least 5) with fresh blades close to trawl time\nKnives (at least 5)\nScissors (various sizes)\nTweezers (various sizes)\nOtolith caps\nContainers to clean off otoliths (tape holder, sponge, or both)\nContainer to rinse scissors and tweezers for fin clips",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
-    "href": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
-    "title": "Post Tow",
-    "section": "Download and Store Peripheral Devices 💾",
-    "text": "Download and Store Peripheral Devices 💾\nSee the specific one-sheeters for the current protocol and instructions on downloading and storing peripheral devices.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Post Tow"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/index.html",
-    "href": "nwfsc-specifics/fieldguide/index.html",
-    "title": "FEAT Wet Lab Field Guide",
-    "section": "",
-    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/index.html#introduction",
-    "href": "nwfsc-specifics/fieldguide/index.html#introduction",
-    "title": "FEAT Wet Lab Field Guide",
-    "section": "",
-    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide"
+      "Welcome"
     ]
   },
   {
@@ -154,254 +94,6 @@
     ]
   },
   {
-    "objectID": "nwfsc-specifics/clamshowto/logging_events.html",
-    "href": "nwfsc-specifics/clamshowto/logging_events.html",
-    "title": "Logging Events",
-    "section": "",
-    "text": "Click ‘Log Event’ to start the process of taking data for the events during a tow\nChoose which type of event to log (“Trawl Event” is the only one for 2025)\n\n\n\nAnother dialog will pop up where you can see a past tow, continue on a tow that is not finished (like if the computer crashes or something), or start a new event.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics",
-      "Logging Events"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#getting-started",
-    "href": "nwfsc-specifics/clamshowto/logging_events.html#getting-started",
-    "title": "Logging Events",
-    "section": "",
-    "text": "Click ‘Log Event’ to start the process of taking data for the events during a tow\nChoose which type of event to log (“Trawl Event” is the only one for 2025)\n\n\n\nAnother dialog will pop up where you can see a past tow, continue on a tow that is not finished (like if the computer crashes or something), or start a new event.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics",
-      "Logging Events"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-new-event",
-    "href": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-new-event",
-    "title": "Logging Events",
-    "section": "Starting a New Event ➕",
-    "text": "Starting a New Event ➕\n\n\n\n\n\n\n\nClick ‘Start New Event’ to proceed to the trawl form. Nothing is enabled at this point until required metadata is entered. If you close out of this before entering any metadata, the event will not be created in the database.\n\n\n\nThings to look for:\n\nEvent number is correct in the upper left corner\nSCS is connected and message is in lower left corner",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics",
-      "Logging Events"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#entering-metadata",
-    "href": "nwfsc-specifics/clamshowto/logging_events.html#entering-metadata",
-    "title": "Logging Events",
-    "section": "Entering Metadata 📤",
-    "text": "Entering Metadata 📤\n\n\n\n\n\n\n\nClick the ‘Enter Event Metadata’ button at the top.\nNOTES:\nA pop-up will appear to remind you to turn off the EAL and reset the recording depth You can return to this screen at any time to enter new data or modify existing data. ONLY THE REQUIRED FIELDS ARE NECESSARY TO START A TRAWL\nAny measure on ANY tab that has an asterisk (*) next to it is a required field to enter before any of the event buttons are enabled.\nWhen you click on a field, the appropriate entry method will pop up. For example, when pressing ‘Transect #’, a number pad will appear.\n\n\n\n\n\nOverall TabGear TabAttached TabWeather Tab\n\n\n\n\n\n\n\n\n\nFor 2025, the required fields on this tab are the transect number and the fisher.\nTarget Depth is the depth that you are targeting in the school, and the target latitude and longitude are where in the school you would like to be at that target depth.\nThe Uphill checkbox is used if the tow is going ‘uphill’. This way we can flag if we need to use some other means to calculate the average bottom depth, since the depth is from the ship instead of the net. One such method would be to use the depths entered into the trawl mensuration form when using the depth under the net on the FS70.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe only required field on this tab is the Gear. For 2025 we will use MFT for tow where the pockets remain open and MFT-pockets for a tow where the pockets are closed.\nThe Tom weights is a field to designate how much weight was used on one side. The net number is a designation for which net is being used.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe dropdowns in the tab are for the peripheral devices like the TDRs and camera. Unless there is something wrong with one of the TDRs, the convention is for the headrope to have the red, the footrope to have the blue, and the camera to have the white.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis tab is for data about the weather. If you don’t know where this information can be found, ask an officer in the wheelhouse and they will point you to where this is displayed.\n\n\n\n\n\n\n\n\nSave and Close\nOnce the required metadata is entered and saved using the Save and Close button, the event is created in the database using the event number in the upper left corner. The NIW button is now enabled and you can start entering any overall comments for the tow. You can also add any preliminary COMs, although this will pop up the net mensuration dialog (more on this later). Also, if you enter a COM before NIW is pressed, the SCS data will not be recorded for that button press.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics",
-      "Logging Events"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#entering-trawl-events",
-    "href": "nwfsc-specifics/clamshowto/logging_events.html#entering-trawl-events",
-    "title": "Logging Events",
-    "section": "Entering Trawl Events ✏️",
-    "text": "Entering Trawl Events ✏️\n\n\n\n\n\n\n\nDefinitions\nNIW: Net In Water (net has touched the water)\nSD: Shoot Doors (doors are released)\nTD: Target Depth\nHB: Haul Back\nCOM: Comment/Notes\nDU: Doors Up (doors secured to the trawl frame)\nNOD: Net on Deck (net is completely on deck)\n\n\n\nTo start a tow, and to start recording the incoming SCS stream, NIW must be clicked. Once clicked, the tow can be aborted and a timer starts in the lower left corner to keep track of the time since the net went into the water.\nNotes:\n\nPrior to NIW and after metadata has been entered, the event form can be closed and opened again for another event, but the fisher should check and update the metadata if things change.\nEven though the values for latitude, longitude, and bottom depth do not show up in the form for NIW, it is being recorded as long as SCS is connected.\nWhen you click TD, a timer will start in the upper right corner that will show the time since TD was pressed. When you click HB, that timer will stop.\nOnce HB is clicked, you can no longer abort the tow. THIS IS DIFFERENT! If a tow is to be aborted, you must use the ABORT TOW button BEFORE you hit HB.\nWhen you enter a COM, it will put a number after it. This is because the database currently needs to have unique names for each trawl for the event data. Right now, you can enter 15 COMs only, so use them wisely.\n\n\nOnce NIW is pressed (as in the image above), the ABORT TOW button is now active, and the SD button can be pressed. The buttons must be pressed in order! However, if you accidentally press a button before it’s time, you are able to press it again to update the time for that button press. BUT, there is no logic that will KEEP the buttons in order if you overwrite, so please be careful with this.\n\n\nNet Mensuration Dialog\nWhen you press TD, HB, or COM, a net mensuration dialog will appear to enter values, although none of them are required in the software. While an entry is not required, it is best practice to include at least measures for TD and HB.\nAgain, when you press the button next to each field name, a popup will appear to enter the values. You can also use the keyboard.\nWhen the record is complete, you MUST click ‘Add Record’ to complete the entry in the database.\nIf you make a mistake or want to see the entered values, click on the record in the main trawl form and the dialog will pop up again.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics",
-      "Logging Events"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#finishing-a-tow",
-    "href": "nwfsc-specifics/clamshowto/logging_events.html#finishing-a-tow",
-    "title": "Logging Events",
-    "section": "Finishing a Tow ✔️",
-    "text": "Finishing a Tow ✔️",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics",
-      "Logging Events"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IWCPS details and protocols",
-    "section": "",
-    "text": "Welcome to the IWCPS!",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "backdeck/index.html",
-    "href": "backdeck/index.html",
-    "title": "Back deck basics",
-    "section": "",
-    "text": "This section will go over: * Preparing CLAMS * Setting up the backdeck computers * Stuff and things",
-    "crumbs": [
-      "Back deck basics"
-    ]
-  },
-  {
-    "objectID": "backdeck/settingup.html",
-    "href": "backdeck/settingup.html",
-    "title": "Setting up back deck computers",
-    "section": "",
-    "text": "The back deck blah blah blah\nStations: * Computer box * Monitor * Cables * Length board * Scale * Scanner * Printer",
-    "crumbs": [
-      "Back deck basics",
-      "Setting up back deck computers"
-    ]
-  },
-  {
-    "objectID": "backdeck/clamssetup.html",
-    "href": "backdeck/clamssetup.html",
-    "title": "CLAMS setup",
-    "section": "",
-    "text": "Setting up the database computer * download and install postgres (latest version as of 5/8/26 - 18.3) * NWFSC superuser password - pinghake * Leave port at 5432 * install database instance * Use DBeaver * Choose new Postgres connection * if this is the first time, you’ll be prompted to download the driver files * Be sure to check Show all databases * use common NWFSC password for clams2nwfsc database * New connection settings * if this is the first time you’ve used DBeaver, use the default postgres database first and then follow these instructions * Right click databases under postgres connection and select Create new database * name the database clams2nwfsc * Right click schemas under the clams2nwfsc database and create new schema * name the schema clams2nwfsc * Tools -&gt; restore * Connect to the same network that holds the CLAMShells * Set the IP address to a static address * Update the",
-    "crumbs": [
-      "Back deck basics",
-      "CLAMS setup"
-    ]
-  },
-  {
-    "objectID": "swfsc-specifics/index.html",
-    "href": "swfsc-specifics/index.html",
-    "title": "IWCPS Protocols",
-    "section": "",
-    "text": "Welcome to the SWFSC specific IWCPS protocols section",
-    "crumbs": [
-      "SWFSC Specifics"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "This will have introduction information about the page and the data management steps",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
-    "title": "Data Management",
-    "section": "Data flow diagram",
-    "text": "Data flow diagram",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
-    "title": "Data Management",
-    "section": "Before the survey",
-    "text": "Before the survey\n\nSteps\nGetting the CLAMS database ready\nDeploying CLAMS database",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
-    "title": "Data Management",
-    "section": "During the survey",
-    "text": "During the survey\n\nSteps\nData Collection\nBacking up and creating reports\nInitial QAQC of raw data\nUsing Docker for QAQC Using Docker is kind of having an apartment in an apartment building. The Docker image/template is built and users are able to use a container to work in. So the image is like the building and the container is like an apartment in the building. Users share the kernel (likened to plumbing in the example), but they have their own way to get in. The important thing to remember is that any changes made in a container are temporary.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
-    "href": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
-    "title": "Data Management",
-    "section": "After the survey",
-    "text": "After the survey\n\nSteps\n\nAdditions to the data (ages, diets, etc)\nFinal QAQC\nArchive staging to sqlite file and store\nCopy staging to production\nClear out staging",
-    "crumbs": [
-      "NWFSC Specifics",
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/clamshowto/index.html",
-    "href": "nwfsc-specifics/clamshowto/index.html",
-    "title": "NWFSC CLAMS basics",
-    "section": "",
-    "text": "Hake Specific CLAMS Guide\nCreated by Alicia Billings alicia.billings@noaa.gov May 2025",
-    "crumbs": [
-      "NWFSC Specifics",
-      "CLAMS Basics"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/index.html",
-    "href": "nwfsc-specifics/index.html",
-    "title": "IWCPS Protocols",
-    "section": "",
-    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
-    "crumbs": [
-      "NWFSC Specifics"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html",
-    "title": "Responsibilities and Expectations",
-    "section": "",
-    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
-    "title": "Responsibilities and Expectations",
-    "section": "",
-    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
-    "title": "Responsibilities and Expectations",
-    "section": "Duty Priorities 🚨",
-    "text": "Duty Priorities 🚨\n\nCollecting catch and sample data\n\nWhile there may be other duties to work on throughout the cruise, the first priority is collecting the catch and sample data. If other duties require attention while sorting and processing is still going on in the lab, work with the acousticians who can either take care of the project or they can take someone’s place in the wet lab.\nNote that during towing operations, NO DUMPING is allowed to minimize the possibility of recapture. As soon as the net is in the water, all dumping must cease. This is also the case for any stationary CTD stations, zooplankton net tows, Methot net tows, etc.\n\nPrepare sensors, cameras, etc. to deploy on the net (also called ‘peripheral devices’ in this document)\n\nIt doesn’t take long to get sensors and other peripheral equipment ready to put onto the net. The survey tech will take care of the equipment maintained by the ship (such as the FS70), but the wet lab staff and volunteers should take care of getting the temperature and depth unit(s) ready for deployment, as well as any cameras or other peripheral equipment.\nBe prepared to go out on deck by donning required personal protective equipment (PPE).\n\nHelp with Marine Mammal watches, when possible\n\nMammal watches before towing operations (and in some cases during) are required. If it isn’t interfering with catch processing, the wet lab staff and volunteers will need to help cover the watch so the fisher can focus on their duties. More often than not, the wet lab lead(s) will not be available for the start of the marine mammal watch due to the preparation of peripheral devices.\n\nRetrieve sensors, cameras, etc. from the net\n\nThe survey tech will take care of retrieving the sensors maintained by the ship. Check with the lab lead(s) or chief scientist what the current protocol is for retrieving FEAT maintained equipment. If you are allowed on deck, you must go out with required PPE (hardhat, PFD - personal flotation device).\n\nMaintain data from peripheral equipment\n\nData should be downloaded from the equipment and stored in the appropriate place as soon as possible to ensure that the equipment is in working order before sending it out again.\n\nKeep lab clean between tows\n\nMost of the time, there is another shift, another group, or another science center sharing the wet lab. A good rinse to knock down any fish goo, livers, blood, and other nasties is required after every tow. It’s easier to clean it when it’s fresh instead of waiting until it cakes on. Always clean the lab like it is the last tow of the day to ensure the other shift/group has a clean working environment.\n\nDeep clean lab after every leg\n\nAfter the last tow for the leg, a deep clean needs to be done to clean nooks and crannies to free any smelly debris. Simple green is provided (and the ship should have some as well) as well as scrub brushes and sponges in the cleaning bucket. More information on required areas to clean later in the document.\n\nDeep, deep clean after cruise – See the cleaning sheet for details.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
-    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
-    "href": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
-    "title": "Responsibilities and Expectations",
-    "section": "Keeping Busy Outside of Sampling Duties ⚡",
-    "text": "Keeping Busy Outside of Sampling Duties ⚡\nThe lab lead(s) may assign other sampling duties outside the wet lab as well as other duties for the current cruise. If you would like something to do, talk with either the lead(s) or the Chief Scientist.",
-    "crumbs": [
-      "NWFSC Specifics",
-      "FEAT Field Guide",
-      "Responsibilities and Expectations"
-    ]
-  },
-  {
     "objectID": "nwfsc-specifics/fieldguide/shipsafety.html",
     "href": "nwfsc-specifics/fieldguide/shipsafety.html",
     "title": "Ship Safety",
@@ -471,6 +163,338 @@
       "NWFSC Specifics",
       "FEAT Field Guide",
       "Ship Safety"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/index.html",
+    "href": "nwfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
+    "section": "",
+    "text": "Welcome to the NWFSC specific IWCPS protocol documentation",
+    "crumbs": [
+      "NWFSC Specifics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/index.html",
+    "href": "nwfsc-specifics/clamshowto/index.html",
+    "title": "NWFSC CLAMS basics",
+    "section": "",
+    "text": "Hake Specific CLAMS Guide\nCreated by Alicia Billings alicia.billings@noaa.gov May 2025",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "This will have introduction information about the page and the data management steps",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#data-flow-diagram",
+    "title": "Data Management",
+    "section": "Data flow diagram",
+    "text": "Data flow diagram",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#before-the-survey",
+    "title": "Data Management",
+    "section": "Before the survey",
+    "text": "Before the survey\n\nSteps\nGetting the CLAMS database ready\nDeploying CLAMS database",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#during-the-survey",
+    "title": "Data Management",
+    "section": "During the survey",
+    "text": "During the survey\n\nSteps\nData Collection\nBacking up and creating reports\nInitial QAQC of raw data\nUsing Docker for QAQC Using Docker is kind of having an apartment in an apartment building. The Docker image/template is built and users are able to use a container to work in. So the image is like the building and the container is like an apartment in the building. Users share the kernel (likened to plumbing in the example), but they have their own way to get in. The important thing to remember is that any changes made in a container are temporary.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
+    "href": "nwfsc-specifics/nwfsc-datamanagement.html#after-the-survey",
+    "title": "Data Management",
+    "section": "After the survey",
+    "text": "After the survey\n\nSteps\n\nAdditions to the data (ages, diets, etc)\nFinal QAQC\nArchive staging to sqlite file and store\nCopy staging to production\nClear out staging",
+    "crumbs": [
+      "NWFSC Specifics",
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "backdeck/settingup.html",
+    "href": "backdeck/settingup.html",
+    "title": "Setting up back deck computers",
+    "section": "",
+    "text": "The back deck blah blah blah\nStations: * Computer box * Monitor * Cables * Length board * Scale * Scanner * Printer",
+    "crumbs": [
+      "Back deck basics",
+      "Setting up back deck computers"
+    ]
+  },
+  {
+    "objectID": "backdeck/index.html",
+    "href": "backdeck/index.html",
+    "title": "Back deck basics",
+    "section": "",
+    "text": "This section will go over: * Preparing CLAMS * Setting up the backdeck computers * Stuff and things",
+    "crumbs": [
+      "Back deck basics"
+    ]
+  },
+  {
+    "objectID": "backdeck/clamssetup.html",
+    "href": "backdeck/clamssetup.html",
+    "title": "CLAMS setup",
+    "section": "",
+    "text": "Setting up the database computer * download and install postgres (latest version as of 5/8/26 - 18.3) * NWFSC superuser password - pinghake * Leave port at 5432 * install database instance * Use DBeaver * Choose new Postgres connection * if this is the first time, you’ll be prompted to download the driver files * Be sure to check Show all databases * use common NWFSC password for clams2nwfsc database * New connection settings * if this is the first time you’ve used DBeaver, use the default postgres database first and then follow these instructions * Right click databases under postgres connection and select Create new database * name the database clams2nwfsc * Right click schemas under the clams2nwfsc database and create new schema * name the schema clams2nwfsc * Tools -&gt; restore * Connect to the same network that holds the CLAMShells * Set the IP address to a static address * Update the",
+    "crumbs": [
+      "Back deck basics",
+      "CLAMS setup"
+    ]
+  },
+  {
+    "objectID": "swfsc-specifics/index.html",
+    "href": "swfsc-specifics/index.html",
+    "title": "IWCPS Protocols",
+    "section": "",
+    "text": "Welcome to the SWFSC specific IWCPS protocols section",
+    "crumbs": [
+      "SWFSC Specifics"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html",
+    "title": "Logging Events",
+    "section": "",
+    "text": "Click ‘Log Event’ to start the process of taking data for the events during a tow\nChoose which type of event to log (“Trawl Event” is the only one for 2025)\n\n\n\nAnother dialog will pop up where you can see a past tow, continue on a tow that is not finished (like if the computer crashes or something), or start a new event.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#getting-started",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#getting-started",
+    "title": "Logging Events",
+    "section": "",
+    "text": "Click ‘Log Event’ to start the process of taking data for the events during a tow\nChoose which type of event to log (“Trawl Event” is the only one for 2025)\n\n\n\nAnother dialog will pop up where you can see a past tow, continue on a tow that is not finished (like if the computer crashes or something), or start a new event.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-new-event",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-new-event",
+    "title": "Logging Events",
+    "section": "Starting a New Event ➕",
+    "text": "Starting a New Event ➕\n\n\n\n\n\n\n\nClick ‘Start New Event’ to proceed to the trawl form. Nothing is enabled at this point until required metadata is entered. If you close out of this before entering any metadata, the event will not be created in the database.\n\n\n\nThings to look for:\n\nEvent number is correct in the upper left corner\nSCS is connected and message is in lower left corner",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#entering-metadata",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#entering-metadata",
+    "title": "Logging Events",
+    "section": "Entering Metadata 📤",
+    "text": "Entering Metadata 📤\n\n\n\n\n\n\n\nClick the ‘Enter Event Metadata’ button at the top.\nNOTES:\nA pop-up will appear to remind you to turn off the EAL and reset the recording depth You can return to this screen at any time to enter new data or modify existing data. ONLY THE REQUIRED FIELDS ARE NECESSARY TO START A TRAWL\nAny measure on ANY tab that has an asterisk (*) next to it is a required field to enter before any of the event buttons are enabled.\nWhen you click on a field, the appropriate entry method will pop up. For example, when pressing ‘Transect #’, a number pad will appear.\n\n\n\n\n\nOverall TabGear TabAttached TabWeather Tab\n\n\n\n\n\n\n\n\n\nFor 2025, the required fields on this tab are the transect number and the fisher.\nTarget Depth is the depth that you are targeting in the school, and the target latitude and longitude are where in the school you would like to be at that target depth.\nThe Uphill checkbox is used if the tow is going ‘uphill’. This way we can flag if we need to use some other means to calculate the average bottom depth, since the depth is from the ship instead of the net. One such method would be to use the depths entered into the trawl mensuration form when using the depth under the net on the FS70.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe only required field on this tab is the Gear. For 2025 we will use MFT for tow where the pockets remain open and MFT-pockets for a tow where the pockets are closed.\nThe Tom weights is a field to designate how much weight was used on one side. The net number is a designation for which net is being used.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe dropdowns in the tab are for the peripheral devices like the TDRs and camera. Unless there is something wrong with one of the TDRs, the convention is for the headrope to have the red, the footrope to have the blue, and the camera to have the white.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis tab is for data about the weather. If you don’t know where this information can be found, ask an officer in the wheelhouse and they will point you to where this is displayed.\n\n\n\n\n\n\n\n\nSave and Close\nOnce the required metadata is entered and saved using the Save and Close button, the event is created in the database using the event number in the upper left corner. The NIW button is now enabled and you can start entering any overall comments for the tow. You can also add any preliminary COMs, although this will pop up the net mensuration dialog (more on this later). Also, if you enter a COM before NIW is pressed, the SCS data will not be recorded for that button press.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#entering-trawl-events",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#entering-trawl-events",
+    "title": "Logging Events",
+    "section": "Entering Trawl Events ✏️",
+    "text": "Entering Trawl Events ✏️\n\n\n\n\n\n\n\nDefinitions\nNIW: Net In Water (net has touched the water)\nSD: Shoot Doors (doors are released)\nTD: Target Depth\nHB: Haul Back\nCOM: Comment/Notes\nDU: Doors Up (doors secured to the trawl frame)\nNOD: Net on Deck (net is completely on deck)\n\n\n\nTo start a tow, and to start recording the incoming SCS stream, NIW must be clicked. Once clicked, the tow can be aborted and a timer starts in the lower left corner to keep track of the time since the net went into the water.\nNotes:\n\nPrior to NIW and after metadata has been entered, the event form can be closed and opened again for another event, but the fisher should check and update the metadata if things change.\nEven though the values for latitude, longitude, and bottom depth do not show up in the form for NIW, it is being recorded as long as SCS is connected.\nWhen you click TD, a timer will start in the upper right corner that will show the time since TD was pressed. When you click HB, that timer will stop.\nOnce HB is clicked, you can no longer abort the tow. THIS IS DIFFERENT! If a tow is to be aborted, you must use the ABORT TOW button BEFORE you hit HB.\nWhen you enter a COM, it will put a number after it. This is because the database currently needs to have unique names for each trawl for the event data. Right now, you can enter 15 COMs only, so use them wisely.\n\n\nOnce NIW is pressed (as in the image above), the ABORT TOW button is now active, and the SD button can be pressed. The buttons must be pressed in order! However, if you accidentally press a button before it’s time, you are able to press it again to update the time for that button press. BUT, there is no logic that will KEEP the buttons in order if you overwrite, so please be careful with this.\n\n\nNet Mensuration Dialog\nWhen you press TD, HB, or COM, a net mensuration dialog will appear to enter values, although none of them are required in the software. While an entry is not required, it is best practice to include at least measures for TD and HB.\nAgain, when you press the button next to each field name, a popup will appear to enter the values. You can also use the keyboard.\nWhen the record is complete, you MUST click ‘Add Record’ to complete the entry in the database.\nIf you make a mistake or want to see the entered values, click on the record in the main trawl form and the dialog will pop up again.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#finishing-a-tow",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#finishing-a-tow",
+    "title": "Logging Events",
+    "section": "Finishing a Tow ✔️",
+    "text": "Finishing a Tow ✔️\n\n\n\n\n\n\n\nAfter NOD is pressed, the event is considered done and all of the event buttons are disabled. However, you will still need to press the Done button to finalize the tow. This will create averages of the SCS sensors (and eventually the weighted averages of the net mensuration entries) in the Event_Data table.\nNOTES:\n\nBecause we may be processing pocket nets prior to NOD, the computers in the wet lab will be able to start processing catch before the tow is complete.\n\nUse the dropdown to change the gear performance if there were any issues and the comment box if you wish to add any comments. If you think there is a reason to use the manually entered bottom depths instead of the ones provided by SCS, make sure to check the checkbox.\nWhen you click ‘Done’ from this dialog, the tow will be complete.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#aborting-a-tow",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#aborting-a-tow",
+    "title": "Logging Events",
+    "section": "Aborting a Tow",
+    "text": "Aborting a Tow\n\n\n\n\n\n\n\nOnce NIW is pressed, the ABORT TOW button is enabled. This button should be pressed if the tow is stopped before it should be due to an issue (marine mammals, gear issues, etc).\nBoth fields are REQUIRED to abort a tow. Once a tow is aborted, it will show ‘Aborted Operation’ in the haulback time field showing the events in the database",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-previous-event",
+    "href": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-previous-event",
+    "title": "Logging Events",
+    "section": "Starting a Previous Event",
+    "text": "Starting a Previous Event\n\n\n\n\n\n\n\nIf the program crashes or needs to be restarted before a tow is completed, you will need to select the event you were working on to continue. In the Event Selection dialog box, a tow that has not reached haulback will be colored in red.\n\n\n\nIf you get into an event that is not finished, you will see the following dialog\nIf you get into an event that IS finished (NOD has been pressed), you can still look at it and modify, but you cannot add anything new and SCS will no longer be recording.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html",
+    "title": "Responsibilities and Expectations",
+    "section": "",
+    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#overall",
+    "title": "Responsibilities and Expectations",
+    "section": "",
+    "text": "You represent NOAA both on the ship and in port\n\nRegardless of whether you are a NOAA employee, contractor, or volunteer, you should conduct yourself appropriately\n\nYou are responsible for yourself\n\nWhile teamwork is key to a successful survey, the most effective teams are built on trust and accountability. Be accountable for your actions, both while on shift and off. Obey the standing orders of the ship and be courteous to your fellow shipmates.\n\nBe available and ready for all duties\n\nBecause of the adaptive nature of the survey, time in between wet lab duties can vary. Work with lab leads and/or the acoustics lab to stay in touch during these times so you can be available at a moment’s notice for either a tow or other relevant duties.\nThe lab lead(s) must remain in contact with the acoustics lab while on shift. Let them know where you will be and carry a radio if necessary.\n\nWork together to complete cruise objectives\n\nIn order to accomplish the varied tasks on the survey, everyone must work together. There can also be a lot of downtime so sharing the duties outside of the lab can help to keep busy.\n\nFollow established sampling protocols\n\nIt is important to follow the established sampling protocols to ensure continuity between shifts, legs, and cruises. The lab lead(s) will provide a walkthrough and review of protocols at the start of each leg. Don’t hesitate to ask questions; it benefits the whole team when everyone is on the same page.\n\nBe diligent to collect the best quality data\n\nIt is easy to become distracted when doing repetitive tasks. Changing jobs frequently and moving around to different stations can help.\nAlways check to make sure a species is not on the Special Sampling list before tossing. These change from cruise to cruise so please be familiar with lab document locations. Special Sampling lists will be available near the main computer in the wet lab. The lab lead(s) also have access to these species in CLAMS.\n\nMaintain supplies and equipment\n\nKeep equipment clean and in working order. Let the wet lab lead know if you notice any supplies getting low.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#duty-priorities",
+    "title": "Responsibilities and Expectations",
+    "section": "Duty Priorities 🚨",
+    "text": "Duty Priorities 🚨\n\nCollecting catch and sample data\n\nWhile there may be other duties to work on throughout the cruise, the first priority is collecting the catch and sample data. If other duties require attention while sorting and processing is still going on in the lab, work with the acousticians who can either take care of the project or they can take someone’s place in the wet lab.\nNote that during towing operations, NO DUMPING is allowed to minimize the possibility of recapture. As soon as the net is in the water, all dumping must cease. This is also the case for any stationary CTD stations, zooplankton net tows, Methot net tows, etc.\n\nPrepare sensors, cameras, etc. to deploy on the net (also called ‘peripheral devices’ in this document)\n\nIt doesn’t take long to get sensors and other peripheral equipment ready to put onto the net. The survey tech will take care of the equipment maintained by the ship (such as the FS70), but the wet lab staff and volunteers should take care of getting the temperature and depth unit(s) ready for deployment, as well as any cameras or other peripheral equipment.\nBe prepared to go out on deck by donning required personal protective equipment (PPE).\n\nHelp with Marine Mammal watches, when possible\n\nMammal watches before towing operations (and in some cases during) are required. If it isn’t interfering with catch processing, the wet lab staff and volunteers will need to help cover the watch so the fisher can focus on their duties. More often than not, the wet lab lead(s) will not be available for the start of the marine mammal watch due to the preparation of peripheral devices.\n\nRetrieve sensors, cameras, etc. from the net\n\nThe survey tech will take care of retrieving the sensors maintained by the ship. Check with the lab lead(s) or chief scientist what the current protocol is for retrieving FEAT maintained equipment. If you are allowed on deck, you must go out with required PPE (hardhat, PFD - personal flotation device).\n\nMaintain data from peripheral equipment\n\nData should be downloaded from the equipment and stored in the appropriate place as soon as possible to ensure that the equipment is in working order before sending it out again.\n\nKeep lab clean between tows\n\nMost of the time, there is another shift, another group, or another science center sharing the wet lab. A good rinse to knock down any fish goo, livers, blood, and other nasties is required after every tow. It’s easier to clean it when it’s fresh instead of waiting until it cakes on. Always clean the lab like it is the last tow of the day to ensure the other shift/group has a clean working environment.\n\nDeep clean lab after every leg\n\nAfter the last tow for the leg, a deep clean needs to be done to clean nooks and crannies to free any smelly debris. Simple green is provided (and the ship should have some as well) as well as scrub brushes and sponges in the cleaning bucket. More information on required areas to clean later in the document.\n\nDeep, deep clean after cruise – See the cleaning sheet for details.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
+    "href": "nwfsc-specifics/fieldguide/responsibilities.html#keeping-busy-outside-of-sampling-duties",
+    "title": "Responsibilities and Expectations",
+    "section": "Keeping Busy Outside of Sampling Duties ⚡",
+    "text": "Keeping Busy Outside of Sampling Duties ⚡\nThe lab lead(s) may assign other sampling duties outside the wet lab as well as other duties for the current cruise. If you would like something to do, talk with either the lead(s) or the Chief Scientist.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Responsibilities and Expectations"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/index.html",
+    "href": "nwfsc-specifics/fieldguide/index.html",
+    "title": "FEAT Wet Lab Field Guide",
+    "section": "",
+    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/index.html#introduction",
+    "href": "nwfsc-specifics/fieldguide/index.html#introduction",
+    "title": "FEAT Wet Lab Field Guide",
+    "section": "",
+    "text": "A main species of focus for the Fisheries Engineering and Acoustic Technologies (FEAT) group is Pacific hake (Merluccius productus), also known as Pacific whiting. A standing biennial survey is conducted jointly with Fisheries and Oceans Canada (DFO) to estimate the biomass and assess the distribution of the West coast population. This particular survey, as well as other surveys and research conducted by the group, uses an Integrated Acoustic and Trawl (IAT) approach.\nAn IAT survey uses a combination of data collected from acoustic transducers (backscatter) and biological data from trawls. The catch data provides groundtruthing, while the specimen data provides length frequency and age information to characterize the size composition of the target species. Unlike some surveys, the locations for the trawls are not set in advance. Trawls are adaptive, depending on the pattern of observed backscatter layers.\nThis document compiles information to set up, work in, and tear down the wet lab aboard NOAA research vessels, and should provide enough information to adapt to other platforms. This serves as an overview of the wet lab personnel responsibilities, provides details to complete the cruise safely and efficiently, and outlines collection protocols. Cruise specific protocols are contained in the separate wet lab materials available in the wet lab.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html",
+    "title": "Post Tow",
+    "section": "",
+    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#clean-the-wet-lab",
+    "title": "Post Tow",
+    "section": "",
+    "text": "In between tows, the lab should be rinsed to minimize the smell.\n\nRinse the monitors with freshwater and ‘dry’ using either a squeegee or towels\nRinse blood and guts off of the tables, fish boards, scales, and conveyor belt, using freshwater for the boards and scales\nRinse blood and guts off of deck, easiest is to go from forward to aft\nUse a floor squeegee to ‘dry’ the deck as much as possible\nUse a smaller squeegee to ‘dry’ the tables",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#replace-depleted-items",
+    "title": "Post Tow",
+    "section": "Replace Depleted Items 🔃",
+    "text": "Replace Depleted Items 🔃\nThe white caddy is used to hold all of the tools needed to sample a tow. Replenish the supplies with the following:\n\n50% ethanol bottle (labeled) – See Ship Safety section for mixing precautions and instructions\nCloth sample bags\nSample labels\nScalpel blade handles (at least 5) with fresh blades close to trawl time\nKnives (at least 5)\nScissors (various sizes)\nTweezers (various sizes)\nOtolith caps\nContainers to clean off otoliths (tape holder, sponge, or both)\nContainer to rinse scissors and tweezers for fin clips",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
+    "href": "nwfsc-specifics/fieldguide/post-tow.html#download-and-store-peripheral-devices",
+    "title": "Post Tow",
+    "section": "Download and Store Peripheral Devices 💾",
+    "text": "Download and Store Peripheral Devices 💾\nSee the specific one-sheeters for the current protocol and instructions on downloading and storing peripheral devices.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "FEAT Field Guide",
+      "Post Tow"
     ]
   }
 ]
