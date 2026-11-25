@@ -162,5 +162,38 @@ Once the required metadata is entered and saved using the Save and Close button,
 
 ::: {.list-table header-rows=0 aligns="l,c" tbl-colwidths="[50,50]" .table-striped}
 
+- - After NOD is pressed, the event is considered done and all of the event buttons are disabled. However, **_you will still need to press the Done button to finalize the tow._** This will create averages of the SCS sensors (and eventually the weighted averages of the net mensuration entries) in the Event_Data table.
+    
+    NOTES:
+
+    * Because we may be processing pocket nets prior to NOD, the computers in the wet lab will be able to start processing catch before the tow is complete.
+    
+    Use the dropdown to change the gear performance if there were any issues and the comment box if you wish to add any comments. If you think there is a reason to use the manually entered bottom depths instead of the ones provided by SCS, make sure to check the checkbox.
+
+    When you click ‘Done’ from this dialog, the tow will be complete.
+   - ![](../photos/CLAMS/fin_tow.png){style="width: 70%;"}
+
+:::
+
+## Aborting a Tow
+
+::: {.list-table header-rows=0 aligns="l,c" tbl-colwidths="[50,50]" .table-striped}
+
+- - Once NIW is pressed, the ABORT TOW button is enabled. This button should be pressed if the tow is stopped before it should be due to an issue (marine mammals, gear issues, etc).
+
+    Both fields are REQUIRED to abort a tow. Once a tow is aborted, it will show **_‘Aborted Operation’_** in the haulback time field showing the events in the database
+  - ![](../photos/CLAMS/abort_tow.png){style="width: 70%;"}
+:::
+
+## Starting a Previous Event
+
+::: {.list-table header-rows=0 aligns="l,c" tbl-colwidths="[50,50]" .table-striped}
+
+- - If the program crashes or needs to be restarted before a tow is completed, you will need to select the event you were working on to continue. In the Event Selection dialog box, a tow that has not reached haulback will be colored in red.
+  - ![](../photos/CLAMS/previ_event.png){style="width: 70%;"}
+- - If you get into an event that is not finished, you will see the following dialog
+
+    If you get into an event that IS finished (NOD has been pressed), you can still look at it and modify, but you cannot add anything new and SCS will no longer be recording.
+  - ![](../photos/CLAMS/incomplete_haul.png){style="width: 70%;"}
 
 :::

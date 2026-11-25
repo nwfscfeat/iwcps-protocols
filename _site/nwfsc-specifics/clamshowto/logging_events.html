@@ -246,6 +246,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#entering-metadata" id="toc-entering-metadata" class="nav-link" data-scroll-target="#entering-metadata">Entering Metadata <span class="emoji" data-emoji="outbox_tray">📤</span></a></li>
   <li><a href="#entering-trawl-events" id="toc-entering-trawl-events" class="nav-link" data-scroll-target="#entering-trawl-events">Entering Trawl Events <span class="emoji" data-emoji="pencil2">✏️</span></a></li>
   <li><a href="#finishing-a-tow" id="toc-finishing-a-tow" class="nav-link" data-scroll-target="#finishing-a-tow">Finishing a Tow <span class="emoji" data-emoji="heavy_check_mark">✔️</span></a></li>
+  <li><a href="#aborting-a-tow" id="toc-aborting-a-tow" class="nav-link" data-scroll-target="#aborting-a-tow">Aborting a Tow</a></li>
+  <li><a href="#starting-a-previous-event" id="toc-starting-a-previous-event" class="nav-link" data-scroll-target="#starting-a-previous-event">Starting a Previous Event</a></li>
   </ul>
 </nav>
     </div>
@@ -447,9 +449,60 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="finishing-a-tow" class="level2">
 <h2 class="anchored" data-anchor-id="finishing-a-tow">Finishing a Tow <span class="emoji" data-emoji="heavy_check_mark">✔️</span></h2>
-<div class="table-striped" data-header-rows="0" data-aligns="l,c" data-tbl-colwidths="[50,50]">
-
-</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>After NOD is pressed, the event is considered done and all of the event buttons are disabled. However, <strong><em>you will still need to press the Done button to finalize the tow.</em></strong> This will create averages of the SCS sensors (and eventually the weighted averages of the net mensuration entries) in the Event_Data table.</p>
+<p>NOTES:</p>
+<ul>
+<li>Because we may be processing pocket nets prior to NOD, the computers in the wet lab will be able to start processing catch before the tow is complete.</li>
+</ul>
+<p>Use the dropdown to change the gear performance if there were any issues and the comment box if you wish to add any comments. If you think there is a reason to use the manually entered bottom depths instead of the ones provided by SCS, make sure to check the checkbox.</p>
+<p>When you click ‘Done’ from this dialog, the tow will be complete.</p></td>
+<td style="text-align: center;"><p><img src="../photos/CLAMS/fin_tow.png" class="img-fluid" style="width: 70%;"></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="aborting-a-tow" class="level2">
+<h2 class="anchored" data-anchor-id="aborting-a-tow">Aborting a Tow</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>Once NIW is pressed, the ABORT TOW button is enabled. This button should be pressed if the tow is stopped before it should be due to an issue (marine mammals, gear issues, etc).</p>
+<p>Both fields are REQUIRED to abort a tow. Once a tow is aborted, it will show <strong><em>‘Aborted Operation’</em></strong> in the haulback time field showing the events in the database</p></td>
+<td style="text-align: center;"><p><img src="../photos/CLAMS/abort_tow.png" class="img-fluid" style="width: 70%;"></p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="starting-a-previous-event" class="level2">
+<h2 class="anchored" data-anchor-id="starting-a-previous-event">Starting a Previous Event</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">If the program crashes or needs to be restarted before a tow is completed, you will need to select the event you were working on to continue. In the Event Selection dialog box, a tow that has not reached haulback will be colored in red.</td>
+<td style="text-align: center;"><img src="../photos/CLAMS/previ_event.png" class="img-fluid" style="width: 70%;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>If you get into an event that is not finished, you will see the following dialog</p>
+<p>If you get into an event that IS finished (NOD has been pressed), you can still look at it and modify, but you cannot add anything new and SCS will no longer be recording.</p></td>
+<td style="text-align: center;"><p><img src="../photos/CLAMS/incomplete_haul.png" class="img-fluid" style="width: 70%;"></p></td>
+</tr>
+</tbody>
+</table>
 
 
 </section>
