@@ -597,8 +597,8 @@
     "objectID": "nwfsc-specifics/clamshowto/logging_events.html#aborting-a-tow",
     "href": "nwfsc-specifics/clamshowto/logging_events.html#aborting-a-tow",
     "title": "Logging Events",
-    "section": "Aborting a Tow",
-    "text": "Aborting a Tow\n\n\n\n\n\n\n\nOnce NIW is pressed, the ABORT TOW button is enabled. This button should be pressed if the tow is stopped before it should be due to an issue (marine mammals, gear issues, etc).\nBoth fields are REQUIRED to abort a tow. Once a tow is aborted, it will show ‘Aborted Operation’ in the haulback time field showing the events in the database",
+    "section": "Aborting a Tow ⚠️",
+    "text": "Aborting a Tow ⚠️\n\n\n\n\n\n\n\nOnce NIW is pressed, the ABORT TOW button is enabled. This button should be pressed if the tow is stopped before it should be due to an issue (marine mammals, gear issues, etc).\nBoth fields are REQUIRED to abort a tow. Once a tow is aborted, it will show ‘Aborted Operation’ in the haulback time field showing the events in the database",
     "crumbs": [
       "NWFSC Specifics",
       "CLAMS Basics",
@@ -621,12 +621,60 @@
     "objectID": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-previous-event",
     "href": "nwfsc-specifics/clamshowto/logging_events.html#starting-a-previous-event",
     "title": "Logging Events",
-    "section": "Starting a Previous Event",
-    "text": "Starting a Previous Event\n\n\n\n\n\n\n\nIf the program crashes or needs to be restarted before a tow is completed, you will need to select the event you were working on to continue. In the Event Selection dialog box, a tow that has not reached haulback will be colored in red.\n\n\n\nIf you get into an event that is not finished, you will see the following dialog\nIf you get into an event that IS finished (NOD has been pressed), you can still look at it and modify, but you cannot add anything new and SCS will no longer be recording.",
+    "section": "Starting a Previous Event ↪️",
+    "text": "Starting a Previous Event ↪️\n\n\n\n\n\n\n\nIf the program crashes or needs to be restarted before a tow is completed, you will need to select the event you were working on to continue. In the Event Selection dialog box, a tow that has not reached haulback will be colored in red.\n\n\n\nIf you get into an event that is not finished, you will see the following dialog\nIf you get into an event that IS finished (NOD has been pressed), you can still look at it and modify, but you cannot add anything new and SCS will no longer be recording.",
     "crumbs": [
       "NWFSC Specifics",
       "CLAMS Basics",
       "Logging Events"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/entering_catch.html",
+    "href": "nwfsc-specifics/clamshowto/entering_catch.html",
+    "title": "Entering Catch",
+    "section": "",
+    "text": "To enter the catch for an operation, click ‘Enter Catch’. A prompt will appear to acknowledge which tow is set and the current haul in the database. Press ‘Proceed’ to continue if the number displayed is correct, or you can click ‘Edit past haul’ to change the current haul to a previous one.\nPay attention here! Because there are pocket nets involved, the setting allows for information to be entered before the tow is ‘Done’ in the wheelhouse. Pay attention to the time to make sure you are entering the information into the correct haul.\n\n\n\n\nYou will be asked to identify yourself before the program goes through the devices that are set in the database for the station and makes sure they can be reached.\n\n\n\nNOTE: Due to a lack of time and resources, the printer functions for the Integrated Survey were not merged into the printer functions used by the AFSC. This results in a warning that it cannot find the Label_Printer for the station, shown below. Hopefully this will be corrected soon, but in the meantime it is safe to ignore and click ‘OK’ to continue.",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Entering Catch"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/entering_catch.html#haul-form",
+    "href": "nwfsc-specifics/clamshowto/entering_catch.html#haul-form",
+    "title": "Entering Catch",
+    "section": "Haul Form",
+    "text": "Haul Form\n\n\n\n\n\n\n\nClick on the Haul Form first to set the Haul Weight Type. Most of the time, a codend will be weighed in its entirety, so it will not be subsampled.\nYou are also able to enter an overall comment for the haul in general here by clicking on Comments at the bottom of the form. If someone entered a comment while logging the event, it will show up here so make sure you do not delete or overwrite their comments!!\n\n\n\nTo enter a load cell weight:\n\n\n\nCalculate the bin volumetric weight:\n\n\n\nEnter an educated guess for the weight:",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Entering Catch"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/entering_catch.html#choosing-a-partition",
+    "href": "nwfsc-specifics/clamshowto/entering_catch.html#choosing-a-partition",
+    "title": "Entering Catch",
+    "section": "Choosing a Partition",
+    "text": "Choosing a Partition\n\nNon-Pocket Example\n\nSince there are no ‘partitions’ other than the codend, the Partition dropdown defaults to Codend and is greyed out. There is nothing to do here as it automatically selects the codend as the partition.\n\n\nPocket Example\n\nIn this case, a partition must be chosen FIRST using the dropdown to continue and place the information into the correct partition of the net (codend, pocket 01, etc).",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Entering Catch"
+    ]
+  },
+  {
+    "objectID": "nwfsc-specifics/clamshowto/entering_catch.html#catch-form",
+    "href": "nwfsc-specifics/clamshowto/entering_catch.html#catch-form",
+    "title": "Entering Catch",
+    "section": "Catch Form",
+    "text": "Catch Form",
+    "crumbs": [
+      "NWFSC Specifics",
+      "CLAMS Basics",
+      "Entering Catch"
     ]
   }
 ]

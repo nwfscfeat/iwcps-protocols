@@ -175,7 +175,7 @@ Once the required metadata is entered and saved using the Save and Close button,
 
 :::
 
-## Aborting a Tow
+## Aborting a Tow :warning:
 
 ::: {.list-table header-rows=0 aligns="l,c" tbl-colwidths="[50,50]" .table-striped}
 
@@ -185,7 +185,7 @@ Once the required metadata is entered and saved using the Save and Close button,
   - ![](../photos/CLAMS/abort_tow.png){style="width: 70%;"}
 :::
 
-## Starting a Previous Event
+## Starting a Previous Event :arrow_right_hook:
 
 ::: {.list-table header-rows=0 aligns="l,c" tbl-colwidths="[50,50]" .table-striped}
 
